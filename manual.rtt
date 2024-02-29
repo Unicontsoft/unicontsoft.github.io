@@ -1,0 +1,32 @@
+[TEMPLATE_CONFIGURATION]
+name = Manual Configuration
+template = book
+
+parts =
+    title
+    ;front_matter
+    contents
+    ;back_matter
+stylesheet = manual.rts
+language = en
+
+[SectionTitles]
+contents = 'Съдържание'
+
+[AdmonitionTitles]
+caution = 'Внимание!'
+warning = 'Внимание'
+tip = ''
+
+[VARIABLES]
+paper_size = A4
+
+[front_matter]
+page_number_format = lowercase roman
+end_at_page = left
+
+[contents]
+page_number_format = number
+
+[title_page]
+top_margin = 2cm

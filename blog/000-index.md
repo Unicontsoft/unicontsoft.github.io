@@ -1,0 +1,8 @@
+# Блог
+
+```{toctree}
+:glob:
+:reversed:
+
+*
+```

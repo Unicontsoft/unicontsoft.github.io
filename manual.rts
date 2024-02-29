@@ -1,0 +1,30 @@
+[STYLESHEET]
+name=MyStyle
+base=sphinx
+
+[VARIABLES]
+mono_typeface=TeX Gyre Cursor
+serif_typeface=DejaVu Serif
+sans_typeface=Roboto
+
+[heading level 1]
+page_break=any
+
+[heading level 3]
+page_break=none
+
+[inline image]
+padding_top = 0.5cm
+padding_bottom = 0.25cm
+
+[admonition]
+space_above = 0.25cm
+space_below = 0.25cm
+padding_top = 0.25cm
+padding_bottom = 0.5cm
+padding_left = 0.5cm
+padding_right = 0.5cm
+
+[centered]
+base=default
+text_align=CENTER
