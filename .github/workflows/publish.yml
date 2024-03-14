@@ -14,11 +14,15 @@ jobs:
         run: |
             sudo apt-get update -y
             sudo apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
-        
+
       - name: Build
         uses: ammaraskar/sphinx-action@master
         with:
           docs-folder: .
+          pre-build-command: |
+            pip install rinohtype
+            cp _static/__init__.py /usr/local/lib/python3.8/site-packages/rinoh/language
+            cp _static/bg.py /usr/local/lib/python3.8/site-packages/rinoh/language
           build-command: "make html rinoh"
         
       - name: Deploy HTML
