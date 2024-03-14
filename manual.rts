@@ -1,5 +1,5 @@
 [STYLESHEET]
-name=MyStyle
+name=DreemStyles
 base=sphinx
 
 [VARIABLES]
@@ -13,18 +13,19 @@ page_break=any
 [heading level 3]
 page_break=none
 
-[inline image]
-padding_top = 0.5cm
-padding_bottom = 0.25cm
+[centered image : InlineImage(has_class="align-center")]
+padding_top=0.5cm
+padding_bottom=0.25cm
+horizontal_align=center
 
 [admonition]
-space_above = 0.25cm
-space_below = 0.25cm
-padding_top = 0.25cm
-padding_bottom = 0.5cm
-padding_left = 0.5cm
-padding_right = 0.5cm
+space_above=0.25cm
+space_below=0.25cm
+padding_top=0.25cm
+padding_bottom=0.5cm
+padding_left=0.5cm
+padding_right=0.5cm
 
 [centered]
 base=default
-text_align=CENTER
+text_align=center
