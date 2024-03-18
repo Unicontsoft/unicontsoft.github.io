@@ -29,7 +29,7 @@ AdmonitionTitles(
     important='Важно',
     note='Бележка',
     tip='Съвет',
-    warning='Внимание',
+    warning='Предупреждение',
     seealso='Виж също',
 ) in BG
 

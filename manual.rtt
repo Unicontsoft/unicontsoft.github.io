@@ -8,7 +8,7 @@ parts =
     contents
     ;back_matter
 stylesheet = manual.rts
-language = en
+language = bg
 
 [SectionTitles]
 contents = 'Съдържание'
