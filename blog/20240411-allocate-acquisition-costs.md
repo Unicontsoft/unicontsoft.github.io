@@ -5,10 +5,10 @@
 
 # Разпределение на разходи за придобиване
 
-- [Въведение]
-- [Методи за разпределение](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id2)  
-- [Разпределение на разходи при общ документ с покупката на стоки](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id3)  
-- [Справки за разпределение на разходите по придобиване](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id4)
+- [Въведение](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id2)
+- [Методи за разпределение](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id3) 
+- [Разпределение на разходи при общ документ с покупката на стоки](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id4)  
+- [Справки за разпределение на разходите по придобиване](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id5)
 
 
 ## Въведение

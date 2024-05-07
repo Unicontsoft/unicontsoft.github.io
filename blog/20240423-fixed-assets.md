@@ -6,7 +6,7 @@
 
 - [Настройки на дълготрайни активи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id2)  
 - [Амортизация на дълготрайни активи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id3)  
-- [Въвеждане на ДА при въвеждане на покупка]
+- [Въвеждане на ДА при въвеждане на покупка](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id4)
 
 ## Настройки
 
