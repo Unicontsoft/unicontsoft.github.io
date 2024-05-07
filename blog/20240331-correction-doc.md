@@ -3,11 +3,11 @@
 ```
  
 # Коригиращи документи при продажба
-- Въведение
-- Кредитен документ към една продажба
-- Кредитен документ към няколко продажби
-- Кредитен документ без връзка с продажба
-- Дебитни документи
+- [Въведение](https://docs.unicontsoft.com/blog/20240331-correction-doc.html#id2)
+- [Кредитен документ към една продажба](https://docs.unicontsoft.com/blog/20240331-correction-doc.html#id3)
+- [Кредитен документ към няколко продажби](https://docs.unicontsoft.com/blog/20240331-correction-doc.html#id4)
+- [Кредитен документ без връзка с продажба](https://docs.unicontsoft.com/blog/20240331-correction-doc.html#id5)
+- [Дебитни документи](https://docs.unicontsoft.com/blog/20240331-correction-doc.html#id6)
 
 ## Въведение
 

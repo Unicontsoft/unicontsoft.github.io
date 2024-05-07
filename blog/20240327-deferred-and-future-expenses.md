@@ -3,9 +3,9 @@
 ```
  
 # Разходи за минали и бъдещи периоди
-- Въведение и настройки
-- Разходи за минали периоди
-- Разходи за бъдещи периоди
+- [Въведение и настройки](https://docs.unicontsoft.com/blog/20240327-deferred-and-future-expenses.html#id2)
+- [Разходи за минали периоди](https://docs.unicontsoft.com/blog/20240327-deferred-and-future-expenses.html#id3)
+- [Разходи за бъдещи периоди](https://docs.unicontsoft.com/blog/20240327-deferred-and-future-expenses.html#id4)
 
 ## Въведение и настройки
 
