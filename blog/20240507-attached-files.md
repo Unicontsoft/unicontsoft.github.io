@@ -3,10 +3,10 @@
 ```
 
 # Прикачени файлове
-- Въведение  
-- Прикачване на файл за контрагент  
-- Прикачване на файл към продукт  
-- Прикачване на файл в документ  
+- [Въведение](https://docs.unicontsoft.com/blog/20240507-attached-files.html#id2)  
+- [Прикачване на файл за контрагент](https://docs.unicontsoft.com/blog/20240507-attached-files.html#id3)  
+- [Прикачване на файл към продукт](https://docs.unicontsoft.com/blog/20240507-attached-files.html#id4)  
+- [Прикачване на файл в документ]  
 
 ## Въведение
 
