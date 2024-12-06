@@ -20,6 +20,6 @@
 :includehidden:
 :numbered:
 001-ref/000-index.md
-002-proc/000-index.md
+002-doc/000-index.md
 003-rep/000-index.md
 ```
