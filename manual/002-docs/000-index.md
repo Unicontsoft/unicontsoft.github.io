@@ -5,16 +5,16 @@
 
 В този раздел се разглеждат основните процеси и въпроси, възникващи при работата с документи в системата.
 
- - [Номенклатури и ценови листи](001-nomenclatures/000-index.md)
- - [Документи и връзки между тях](002-documents/000-index.md)
- - [Плащания](003-payments/000-index.md)
- - [Счетоводство](004-accounting/000-index.md)
+ - [Документи и връзки между тях](001-documents/000-index.md)
+ - [Плащания](002-payments/000-index.md)
+ - [Счетоводство](003-accounting/000-index.md)
+ - [ТРЗ](004-payroll-documents/000-index.md)
 
  ```{toctree}
 :maxdepth: 1
 :hidden:
-001-nomenclatures/000-index.md
-002-documents/000-index.md
-003-payments/000-index.md
-004-accounting/000-index.md
+001-documents/000-index.md
+002-payments/000-index.md
+003-accounting/000-index.md
+004-payroll-documents/000-index.md
 ```
