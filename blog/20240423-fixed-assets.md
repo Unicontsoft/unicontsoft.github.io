@@ -4,7 +4,7 @@
 
 # Дълготрайни активи
 
-- [Настройки на дълготрайни активи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id2)  
+- [Настройки](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id2)  
 - [Амортизация на дълготрайни активи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id3)  
 - [Първоначално придобиване на ДА](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id4)
 - [Печат на протокол за въвеждане в експлоатация](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id5)
