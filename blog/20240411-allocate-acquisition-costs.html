@@ -1,0 +1,785 @@
+
+<!DOCTYPE html>
+
+
+<html lang="bg" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Разпределение на разходи за придобиване &#8212; Unicontsoft Dreem</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/tweaks.css?v=3875662b" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js?v=6f417ed6"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=4825356b"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/translations.js?v=91a661d6"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'blog/20240411-allocate-acquisition-costs';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Коригиращи документи при продажба" href="20240331-correction-doc.html" />
+    <link rel="prev" title="Разпределение на разходи за продажби" href="20240416-allocate-sales-costs.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="bg"/>
+    <meta name="docbuild:last-update" content="дек 19, 2024"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../index.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">Unicontsoft Dreem</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><ul class="navbar-icon-links navbar-nav"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://raw.githubusercontent.com/Unicontsoft/unicontsoft.github.io/pdfs/manual.pdf" title="manual-pdf" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-solid fa-file-pdf fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">manual-pdf</span></a>
+        </li>
+</ul></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../manual/000-index.html">Ръководство за потребителя</a><input checked class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../manual/001-ref/000-index.html">1. Настройки</a><input checked class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/000-index.html">1.1. Номенклатури</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/001-ref-nomenclatures.html">1.1.1. Референтни номенклатури</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/002-contragents.html">1.1.2. Контрагенти</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/003-items.html">1.1.3. Продукти</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/004-assets.html">1.1.4. Създаване на ДМА</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/005-price-lists.html">1.1.5. Ценови листи</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/006-discount-schemes.html">1.1.6. Търговски отстъпки</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/007-loyalty-programs.html">1.1.7. Програми за лоялност</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/001-nomenclatures/008-custom-dimensions.html">1.1.8. Потребителски дименсии</a></li>
+
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/001-ref/002-accounting/000-index.html">1.2. Счетоводни настройки</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-4"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/002-accounting/001-chart-of-acc.html">1.2.1. Сметкоплан</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/001-ref/002-accounting/002-acc-wizard.html">1.2.2. Автоматичен осчетоводител</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/001-ref/003-settings/000-index.html">1.3. Администрация</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-5"><i class="fa-solid fa-chevron-down"></i></label><ul class="simple">
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../manual/002-docs/000-index.html">2. Документи и процеси</a><input checked class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-6"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/002-docs/001-documents/000-index.html">2.1. Документи и връзки между тях</a><input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-7"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/001-documents/001-row-crosses.html">2.1.1. Кросовете между документи и как да ги използваме</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/001-documents/002-invoice-multiple-sales.html">2.1.2. Създаване на фактура от множество продажби</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/001-documents/003-purchases-transport-expenses.html">2.1.3. Разпределяне на разходи по транспорт при покупка</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/001-documents/004-advances.html">2.1.4. Работа с аванси</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/001-documents/005-currency-invoices.html">2.1.5. Създаване на валутни фактури за покупка и продажба</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/002-docs/002-payments/000-index.html">2.2. Плащания</a><input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/002-payments/001-offsets.html">2.2.1. Прихващания</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/002-payments/002-exchange-differences.html">2.2.2. Въвеждане на курсови разлики</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/002-docs/003-accounting/000-index.html">2.3. Счетоводство</a><input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/003-accounting/001-acc-doc.html">2.3.1. Създаване на счетоводен документ</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/000-index.html">2.4. ТРЗ</a><input class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-10"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/001-settings.html">2.4.1. Настройки</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/002-employees.html">2.4.2. Създаване на номенклатури на служители</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/003-adv-payroll-documents.html">2.4.3. Авансови разчетно-платежни ведомости</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/004-medical-documents.html">2.4.4. Болнични документи</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/005-leave-documents.html">2.4.5. Документи за отпуск</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/006-payroll-documents.html">2.4.6. Разчетно–платежни ведомости</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/002-docs/004-payroll-documents/007-print-slips.html">2.4.7. Печат на фишове</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../manual/003-rep/000-index.html">3. Справки</a><input checked class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-11"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../manual/003-rep/001-intro/000-index.html">3.1. Коя справка в какъв случай използваме</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/003-rep/002-trade/000-index.html">3.2. Справки в Търговската система</a><input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-12"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/001-stock-on-hand.html">3.2.1. Справка “Наличност на склад”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/002-wallets-availability%20copy.html">3.2.2. Справка “Наличност на портфейли”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/003-turnover-sheet-warhouse.html">3.2.3. Справка “Оборотна ведомост на складове”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/004-movement-of-goods.html">3.2.4. Справка “Движение на стоките в складове”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/005-product-report.html">3.2.5. Справка „Картон на продукт/материал”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/006-cash-book.html">3.2.6. Справка „Касова книга”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/007-turnover-sheet-of-wallet.html">3.2.7. Справка „Оборотна ведомост на портфейли”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/008-analytical-sheet-of-wallet.html">3.2.8. Справка „Аналитична оборотна ведомост на портфейл”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/009-sales-realization.html">3.2.9. Справка „Реализация”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/010-sales-payments.html">3.2.10. Справка „Продажби/Плащания”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/002-trade/011-balances-turnovers-of-contragents.html">3.2.11. Справка „Салда и обороти на контрагенти”</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/003-rep/003-accounting/000-index.html">3.3. Справки в Счетоводната система</a><input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-13"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/001-synthetical-and-analytical-turnover-sheet.html">3.3.1. Справки „Синтетична оборотна ведомост” и „Аналитична оборотна ведомост”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/002-balances-and-turnovers-of-contragents.html">3.3.2. Справка „Салда и обороти на контрагенти”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/003-general-ledger.html">3.3.3. Справка „Главна книга”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/004-account-ledger.html">3.3.4. Справка „Дневник на сметка”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/005-purchase-ledger.html">3.3.5. Справка „Дневник на покупките”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/006-sales-ledger.html">3.3.6. Справка „Дневник на продажбите”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/007-goods-assets-report.html">3.3.7. Справка „Картон на стока/МЗ”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/003-accounting/008-asset-depreciation-plan-printing.html">3.3.8. Справка „Печат на амортизационен план” (САП и ДАП)</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../manual/003-rep/004-other/000-index.html">3.4. Други справки</a><input class="toctree-checkbox" id="toctree-checkbox-14" name="toctree-checkbox-14" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-14"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/004-other/001-delivery-prices-by-product.html">3.4.1. Справка „Доставни цени по продукти и материали”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/004-other/002-cost-center-reports.html">3.4.2. Справка „Себестойност на разходен център”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/004-other/003-margin-and-profitability-of-sales-and-invoices.html">3.4.3. Справка „Марж и рентабилност на приходите от продажби”</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../manual/003-rep/004-other/004-vat-per-year.html">3.4.4. Справка „ДДС за година”</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../manual/004-user/000-index.html">4. Потребителски настройки на профил</a><input checked class="toctree-checkbox" id="toctree-checkbox-15" name="toctree-checkbox-15" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-15"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../manual/004-user/001-permissions.html">4.1. Права</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../manual/004-user/002-settings.html">4.2. Настройки</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../manual/004-user/003-send-mail-texts.html">4.3. Автоматичен текст при изпращане на e-mail</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../manual/004-user/004-invoice-printing.html">4.4. Настройки при печат на фактури</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../manual/004-user/005-logo.html">4.5. Фирмено лого</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="000-index.html">Блог</a><input checked class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-16"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="20241121-bank-statement-import.html">Импорт на банкови извлечения</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20241112-lists-configuration.html">Работа със списъци</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240603-product-import.html">Импорт на продукти</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240601-how-to-start.html">Първи стъпки с Dreem ERP</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240522-price-lists-and-discount-schemes.html">Ценови листи и схеми с търговски отстъпки</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240517-working-periods.html">Работни периоди</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240507-attached-files.html">Прикачени файлове</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240423-fixed-assets.html">Дълготрайни активи</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240416-allocate-sales-costs.html">Разпределение на разходи за продажби</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Разпределение на разходи за придобиване</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240331-correction-doc.html">Коригиращи документи при продажба</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240327-deferred-and-future-incomes.html">Приходи за бъдещи и минали периоди</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240327-deferred-and-future-expenses.html">Разходи за минали и бъдещи периоди</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240321-deferred-vat.html">Отложено начисляване на ДДС за покупки</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240311-dimensions.html">Потребителски дименсии</a></li>
+<li class="toctree-l2"><a class="reference internal" href="20240219-POS-in-LAN.html">Как да използваме Dreem POS в локална мрежа</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/Unicontsoft/unicontsoft.github.io" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Хранилище на източника"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/Unicontsoft/unicontsoft.github.io/blob/master/./blog/20240411-allocate-acquisition-costs.md?plain=1" target="_blank"
+   class="btn btn-sm btn-source-file-button dropdown-item"
+   title="Show source"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-code"></i>
+  </span>
+<span class="btn__text-container">Show source</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Режим на цял екран"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Разпределение на разходи за придобиване</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> На страницата </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Въведение</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Методи за разпределение</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Разпределение на разходи при общ документ с покупката на стоки</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Справки за разпределение на разходите по придобиване</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Счетоводни настройки и документи</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <p><a class="reference internal" href="000-index.html"><span class="doc std std-doc">Нагоре</span></a></p>
+<section class="tex2jax_ignore mathjax_ignore" id="id1">
+<h1>Разпределение на разходи за придобиване<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h1>
+<ul class="simple">
+<li><p><a class="reference external" href="https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id2">Въведение</a></p></li>
+<li><p><a class="reference external" href="https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id3">Методи за разпределение</a></p></li>
+<li><p><a class="reference external" href="https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id4">Разпределение на разходи при общ документ с покупката на стоки</a></p></li>
+<li><p><a class="reference external" href="https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id5">Справки за разпределение на разходите по придобиване</a></p></li>
+<li><p><a class="reference external" href="https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html#id6">Счетоводни настройки и документи</a></p></li>
+</ul>
+<section id="id2">
+<h2>Въведение<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h2>
+<p>Получените от доставчик стоково-материални запаси се отразяват в системата чрез <a class="reference external" href="https://www.unicontsoft.com/cms/node/23">въвеждането на документи за покупка</a>. Към тях се генерират складови документи, с което продуктите се заприходяват по покупна цена(без ДДС).<br />
+Разходите по закупуване, обаче, може да включват също вносни мита и такси, невъзстановими данъци и акцизи, разходи по доставката, товаро-разтоварни операции, монтаж и др.</p>
+<blockquote>
+<div><p>Всички тези разходи, свързани със закупуване, преработка и доставка, формират доставната стойност на стоково-материалните запаси.</p>
+</div></blockquote>
+<p>Системата разполага със средство за автоматично разпределяне на разходите по покупки. Като резултат на неговото използване, в справки ще разполагате с реалната себестойност на продукти и материали.<br />
+Схемата е подробно описана в статията <a class="reference external" href="https://www.unicontsoft.com/cms/node/148">Как да разпределим разходи по покупка</a>, с която е добре да се запознаете, ако темата е нова за Вас.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Препоръчително е за различните разходи, които ще разпределяте (напр. транспорт), да въведете отделни продукти при продажба, при придобиване и като общи разходи. Тоест трябва да имате веднъж продукт <em>Транспорт (по придобиване)</em>, втори продукт - <em>Транспорт (при продажба)</em> и отделно <em>Транспорт (общи разходи)</em>.<br />
+Всички те трябва да бъдат от тип на продукта, настроен като услуга, със съответното осчетоводяване.</p>
+</div>
+</section>
+<section id="id3">
+<h2>Методи за разпределение<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h2>
+<p>Нека направим примерно разпределяне на транспортни разходи, при което доставката е извършена от фирма, различна от доставчика на стоките.</p>
+<blockquote>
+<div><p>Предварително трябва да са въведени и валидирани в системата вътрешнофирмените документи за покупка на стоки - <em>Документ за покупка</em> и <em>Приходен складов документ</em>.</p>
+</div></blockquote>
+<p>Създавате нов вътрешнофирмен документ за покупка, в който е важно да изберете точния продукт за транспортни услуги. В случая това е <em>Транспорт (по придобиване)</em>.<br />
+Навигирате се до меню <strong>Средства || Разпределение на разходи за придобиване</strong>, с което отваряте формата за избор на свързани документи:</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs1.png" /></p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Опцията <em>Разпределение на разходи за придобиване</em> е активна в <em>Документ за покупка</em> единствено, когато той е в състояние на редакция.</p>
+</div>
+<p>В колона <em>Ред от свързан документ</em> на реда за нов запис отваряте за избор списъците с приходни складови документи или покупки. Вие решавате с кой от двата списъка ще работите.<br />
+Ако изберете списък <em>Складови документи</em>, трябва да посочите ПСД с доставката на стоките, върху които ще разпределяте транспортните разходи. Избирайки <em>Документи за покупка</em>, посочвате вътрешнофирмения документ с покупката.<br />
+Да намерите бързо и лесно точния документ зависи от зададените филтри в съответния списък.</p>
+<blockquote>
+<div><p>Може да маркирате едновременно няколко документа, когато разходът за разпределяне е общ за тях.</p>
+</div></blockquote>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs2.png" /></p>
+<p>След като сте избрали желания свързан документ, следва да маркирате един, няколко или всички продукти, върху които ще разпределите транспортните разходи.<br />
+Системата ще добави на отделен ред всеки един от тях, предлагайки сума за разпределяне на база <strong>Отчетна стойност</strong>.</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs3.png" /></p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Общата сума на разходите за разпределяне е винаги без ДДС.</p>
+</div>
+<p>След като потвърдите избора, системата разпределя разхода на избраната за това база.</p>
+<p>Освен предложения по подразбиране метод, системата дава възможност за избор между още няколко:</p>
+<ul class="simple">
+<li><p><strong>Ръчно</strong>  - При него системата “отключва” колона <em>Сума за разпределяне</em> и имате пълната свобода да разделите общата сума на разхода по продукти.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs4.png" /></p>
+<ul class="simple">
+<li><p><strong>Количество по основна мярка</strong> - При този метод системата автоматично разпределя общата сума на разхода спрямо количествата в основна мерна единица.<br />
+Което е нашия пример би изглеждало по следния начин:</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs5.png" /></p>
+<ul class="simple">
+<li><p><strong>Количество по допълнителна мярка</strong> - За да използвате този метод, трябва предварително да настроите допълнителни мерки на продуктите.<br />
+В примера за всички продукти има добавена допълнителна мярка <em>Кашон</em>, съдържащ 10 броя шампоан. Ето как би изглеждало примерното разпределение на разходите:</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs6.png" /></p>
+<ul class="simple">
+<li><p><strong>Нето тегло</strong> - При този метод също е нужна предварителна настройка в панел <em>Допълнителни</em> във форма за редакция на продукта.<br />
+При разпределението на транспорта системата дава информация с тези настройки в колона <em>Основа за разпределение на единица</em> и <em>Мярка на основата</em>.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs7.png" /></p>
+<ul class="simple">
+<li><p><strong>Нето обем</strong> - Методът отново изисква предварителна настройка с нето обем за всеки продукт. Разпределението на разхода ще се извърши на база настроените обеми. Системата визуализира тези настройки в колони <em>Основа за разпределение на единица</em> и <em>Мярка на основата</em>.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs8.png" /></p>
+<ul class="simple">
+<li><p><strong>Отчетна цена</strong> - С този метод системата автоматично разпределя общата сума на разхода спрямо единичната цена на продуктите.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs9.png" /></p>
+</section>
+<section id="id4">
+<h2>Разпределение на разходи при общ документ с покупката на стоки<a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h2>
+<p>Има случаи, когато доставчикът издава фактура, включваща както стоката, така и допълнителни услуги - например, извършва транспортирането ѝ.<br />
+Тук отново може да разпределите разхода, което става по <a class="reference external" href="https://www.unicontsoft.com/cms/node/148">описания начин</a>, но с една особеност.</p>
+<blockquote>
+<div><p>Документът за покупка трябва да е валидиран с приключен ПСД към него. <ins>След което покупката се връща в състояние на редакция.</ins></p>
+</div></blockquote>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs10.png" /></p>
+<p>Следвате стъпките от меню <strong>Средства || Разпределение на разходи за придобиване</strong>.</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs11.png" /></p>
+<p>В колона <em>Ред от свързан документ</em> посочвате или текущата покупка, или генерирания към нея ПСД.</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs12.png" /></p>
+<p>Избирате желания метод и завършвате разпределението на разхода за транспорт по гореописания начин.</p>
+</section>
+<section id="id5">
+<h2>Справки за разпределение на разходите по придобиване<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h2>
+<p>В системата имате възможност да проверите дали има разпределени разходи по придобиване по няколко начина и в различни справки.</p>
+<p>За сте сигурни, че желаните покупки са разпределени като разходи по придобиване, може да следите колона <strong>Разпределено като разходи за придобиване %</strong>. Тя се намира в списък <strong>Документи за покупка</strong> и ако не е видима, се извежда с десен бутон върху реда с имена на колони - <em>Изглед на списък</em>.</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs13.png" /></p>
+<p>Информация за разпределени разходи може да видите и в панел <strong>Свързани документи</strong> на документа за покупка, съдържаща разхода:</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs14.png" /></p>
+</section>
+<section id="id6">
+<h2>Счетоводни настройки и документи<a class="headerlink" href="#id6" title="Permalink to this heading">#</a></h2>
+<p>Най-подходящият начин разпределянето на разходи по придобиване да се отрази счетоводно е чрез използване на транзитна сметка от гр. 30. Обикновено това е с/ка 301.<br />
+Уверете се, че в <strong>Номенклатури || Сметкоплан</strong> за тази сметка има поставена отметка в колона <em>Признак задължителен</em>. Същото важи и за сметка 304.
+Така в генерираните счетоводни записи системата ще цитира отделните продукти.</p>
+<blockquote>
+<div><p>Въведените през списък <em>Продукти и материали</em> номенклатури се визуализират в <strong>Счетоводство</strong> като списък <em>Признаци</em>.</p>
+</div></blockquote>
+<p>Следващите задължителни настройки са в <strong>Счетоводство || Автоматичен осчетоводител</strong>.</p>
+<p>За група <strong>Документи за покупка</strong> трябва да направите настройки в <em>Кореспонденции</em>. Както ще видите на примерното изображение, създават се отделни редове за всички типове продукти, които ще се осчетоводяват през транзитната сметка.<br />
+Като резултат, в счетоводните документи към фактурите за покупка стоките и допълнителните разходи се отнасят по с/ка 301.</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs15.png" /></p>
+<p>Необходими са настройки и за група <strong>Складови документи</strong>. Целта тук е в счетоводния документ към ПСД стоките да се прехвърлят по основната с/ка 304.<br />
+Настройте за <em>Водеща сметка</em> в документ тип <em>ПСД</em> осчетоводяването на транзитната с/ка 301 да е в кредит. В <em>Кореспонденции</em> направете настройка за осчетоводяване на приходните документи по дебита на с/ка 304.
+Разгледайте маркираните редове на изображението по-долу:</p>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs16.png" /></p>
+<p>В счетоводните документи, след като сте изпълнили задължителните условия, ще имате подобни записвания:</p>
+<ul class="simple">
+<li><p>В документа за доставка на стоки счетоводната статия е една. Единствената особеност тук е, че стоките са заприходени чрез избраната за транзитна с/ка 301.</p></li>
+</ul>
+<p><strong>ФПок (доставка на стоки)</strong></p>
+<div class="admonition- admonition">
+<p class="admonition-title">Статия</p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Д<sup>т</sup> Сметка</p></th>
+<th class="head"><p>К<sup>т</sup> Сметка</p></th>
+<th class="head"><p>Признак</p></th>
+<th class="head"><p>Сума</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>301</p></td>
+<td><p></p></td>
+<td><p>Шампоан 150 мл</p></td>
+<td><p>750.00 лв.</p></td>
+</tr>
+<tr class="row-odd"><td><p>301</p></td>
+<td><p></p></td>
+<td><p>Шампоан 530 мл</p></td>
+<td><p>1666.67 лв.</p></td>
+</tr>
+<tr class="row-even"><td><p>301</p></td>
+<td><p></p></td>
+<td><p>Шампоан 150 мл</p></td>
+<td><p>1333.33 лв.</p></td>
+</tr>
+<tr class="row-odd"><td><p>4531</p></td>
+<td><p></p></td>
+<td><p></p></td>
+<td><p>750.00 лв.</p></td>
+</tr>
+<tr class="row-even"><td><p></p></td>
+<td><p>4011</p></td>
+<td><p></p></td>
+<td><p>4500.00 лв.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul class="simple">
+<li><p>При осчетоводяването на фактурата за транспорт, като разход за разпределение, отново участва транзитната сметка.<br />
+Сумата от нея - 83.33 лв., ще бъде разпределена към доставната стойност на продуктите.</p></li>
+</ul>
+<p><strong>ФПок (разходи за разпределение)</strong></p>
+<div class="admonition- admonition">
+<p class="admonition-title">Статия</p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Д<sup>т</sup> Сметка</p></th>
+<th class="head"><p>К<sup>т</sup> Сметка</p></th>
+<th class="head"><p>Признак</p></th>
+<th class="head"><p>Сума</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>301</p></td>
+<td><p></p></td>
+<td><p>Транспорт</p></td>
+<td><p>83.33 лв.</p></td>
+</tr>
+<tr class="row-odd"><td><p>4531</p></td>
+<td><p></p></td>
+<td><p></p></td>
+<td><p>16.67 лв.</p></td>
+</tr>
+<tr class="row-even"><td><p></p></td>
+<td><p>4011</p></td>
+<td><p></p></td>
+<td><p>100.00 лв.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul class="simple">
+<li><p>Същинското разпределение на разходи става в <em>ПСД</em>. В този счетоводен документ за всеки продукт се генерира отделна статия.<br />
+В следващия пример виждате как доставната цена и разпределените разходи от с/ка 301 формират новата себестойност на продукта в с/ка 304.</p></li>
+</ul>
+<p><strong>ПСД (доставка на стоки)</strong></p>
+<div class="admonition- admonition">
+<p class="admonition-title">Статия 1</p>
+<table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Д<sup>т</sup> Сметка</p></th>
+<th class="head"><p>К<sup>т</sup> Сметка</p></th>
+<th class="head"><p>Признак</p></th>
+<th class="head"><p>Сума</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>304</p></td>
+<td><p></p></td>
+<td><p>Шампоан 150 мл</p></td>
+<td><p>766.67 лв.</p></td>
+</tr>
+<tr class="row-odd"><td><p></p></td>
+<td><p>301</p></td>
+<td><p>Шампоан 150 мл</p></td>
+<td><p>750.00 лв.</p></td>
+</tr>
+<tr class="row-even"><td><p></p></td>
+<td><p>301</p></td>
+<td><p>Транспорт</p></td>
+<td><p>16.67 лв.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><img alt="" class="align-center" src="../_images/20240411-allocate-acquisition-costs17.png" /></p>
+<blockquote>
+<div><p>За да разпределим разходи по придобиване, трябва покупката на стоките да е валидирана с приключен приходен складов документ към нея.<br />
+Документът за покупка, съдържащ разходите за разпределяне, трябва да е в състояние на редакция.<br />
+Върху един <em>Документ за покупка</em> може да разпределим един или няколко разхода.<br />
+Може да разпределим един разход както върху една, така и върху няколко <em>Документа за покупка</em>.<br />
+Може също да разпределим разход, когато с покупката на стоки са получени в общ документ.</p>
+</div></blockquote>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="20240416-allocate-sales-costs.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Разпределение на разходи за продажби</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="20240331-correction-doc.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Коригиращи документи при продажба</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> На страницата
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Въведение</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Методи за разпределение</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Разпределение на разходи при общ документ с покупката на стоки</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Справки за разпределение на разходите по придобиване</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Счетоводни настройки и документи</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+От Unicontsoft
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024 by Unicontsoft.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+  Last updated on дек 19, 2024.
+  <br/>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
