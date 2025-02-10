@@ -54,7 +54,3 @@ ___
 [Описание и функционалности на контейнера](https://www.unicontsoft.com/cms/node/253)  
 [Работа с колони на списъци](https://www.unicontsoft.com/cms/node/254)  
 
-```{toctree}
-:glob: true
-*
-```
