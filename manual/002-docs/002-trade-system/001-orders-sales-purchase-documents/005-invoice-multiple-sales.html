@@ -1,0 +1,568 @@
+
+<!DOCTYPE html>
+
+
+<html lang="bg" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>2.2.1.5. Генериране на фактура от множество продажби &#8212; Unicontsoft Dreem</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../../../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../../../../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../../../../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+
+  
+  <link href="../../../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../../../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" href="../../../../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/tweaks.css?v=3875662b" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../../../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../../../../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../../../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
+
+    <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js?v=6f417ed6"></script>
+    <script src="../../../../_static/doctools.js?v=888ff710"></script>
+    <script src="../../../../_static/sphinx_highlight.js?v=4825356b"></script>
+    <script src="../../../../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../../../../_static/translations.js?v=91a661d6"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'manual/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales';</script>
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" />
+    <link rel="next" title="2.2.1.6. Продажба/покупка с няколко складови документа" href="006-invoice-multiple-wd.html" />
+    <link rel="prev" title="2.2.1.4. Създаване и печат на документи в чуждестранна валута" href="004-currency-invoices.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="bg"/>
+    <meta name="docbuild:last-update" content="май 30, 2025"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../../../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../../../../index.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">Unicontsoft Dreem</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><ul class="navbar-icon-links navbar-nav"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://raw.githubusercontent.com/Unicontsoft/unicontsoft.github.io/pdfs/manual.pdf" title="manual-pdf" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-solid fa-file-pdf fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">manual-pdf</span></a>
+        </li>
+</ul></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../../../000-index.html">Ръководство за потребителя</a><input checked class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../001-ref/000-index.html">1. Настройки</a><input checked class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../001-ref/001-nomenclatures/000-index.html">1.1. Номенклатури</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/001-ref-nomenclatures.html">1.1.1. Референтни номенклатури</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/002-contragents.html">1.1.2. Контрагенти</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/003-items.html">1.1.3. Продукти</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/004-assets.html">1.1.4. Създаване на ДМА</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/005-price-lists.html">1.1.5. Ценови листи</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/006-discount-schemes.html">1.1.6. Търговски отстъпки</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/007-loyalty-programs.html">1.1.7. Програми за лоялност</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/001-nomenclatures/008-custom-dimensions.html">1.1.8. Потребителски дименсии</a></li>
+
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../001-ref/002-accounting/000-index.html">1.2. Счетоводни настройки</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-4"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/002-accounting/001-chart-of-acc.html">1.2.1. Сметкоплан</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/002-accounting/002-acc-wizard.html">1.2.2. Автоматичен осчетоводител</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/002-accounting/003-acc-admin-settings.html">1.2.3. Счетоводни настройки</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../001-ref/003-payroll/000-index.html">1.3. Настройки за ТРЗ</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-5"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/003-payroll/001-payroll-settings.html">1.3.1. Референтни номенклатури за ТРЗ</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/003-payroll/002-employees.html">1.3.2. Номенклатура Служители</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../001-ref/004-settings/000-index.html">1.4. Администрация</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-6"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/004-settings/001-users.html">1.4.1. Потребители и групи</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/004-settings/002-permissions.html">1.4.2. Права на групи</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/004-settings/003-working-periods.html">1.4.3. Работни периоди</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../001-ref/004-settings/004-counters.html">1.4.4. Номератори</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2 current active has-children"><a class="reference internal" href="../../000-index.html">2. Документи и процеси</a><input checked class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-7"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../001-documents/000-index.html">2.1. Работа със списъци и връзки между документи</a><input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../001-documents/001-lists.html">2.1.1. Работа със списъци</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../001-documents/002-row-crosses.html">2.1.2. Връзки между документи</a></li>
+</ul>
+</li>
+<li class="toctree-l3 current active has-children"><a class="reference internal" href="../000-index.html">2.2. Търговска система</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l4 current active"><a class="reference internal" href="000-index.html">2.2.1. Документи за заявка, покупки и продажби</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../002-warehouse-documents/000-index.html">2.2.2. Складови документи</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../003-payments/000-index.html">2.2.3. Платежни документи</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../003-accounting/000-index.html">2.3. Счетоводство</a><input class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-10"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../003-accounting/001-acc-doc.html">2.3.1. Създаване на счетоводен документ</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../004-payroll-documents/000-index.html">2.4. ТРЗ</a><input class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-11"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../004-payroll-documents/001-adv-payroll-documents.html">2.4.1. Авансови разчетно-платежни ведомости</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../004-payroll-documents/002-payroll-documents.html">2.4.2. Разчетно–платежни ведомости</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../004-payroll-documents/003-medical-documents.html">2.4.3. Болнични документи</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../004-payroll-documents/004-leave-documents.html">2.4.4. Документи за отпуск</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../004-payroll-documents/005-print-slips.html">2.4.5. Печат на фишове на служители</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../003-rep/000-index.html">3. Справки</a><input checked class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-12"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../003-rep/001-trade/000-index.html">3.1. Търговска система</a><input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-13"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/001-stock-on-hand.html">3.1.1. Наличност на склад</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/002-wallets-availability.html">3.1.2. Наличност на портфейли</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/003-turnover-sheet-warhouse.html">3.1.3. Оборотна ведомост на складове</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/004-product-report.html">3.1.4. Картон на продукт/материал</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/005-cash-book.html">3.1.5. Касова книга</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/006-turnover-sheet-of-wallet.html">3.1.6. Оборотна ведомост на портфейли</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/007-sales-payments.html">3.1.7. Продажби/Плащания</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/008-sales-realization.html">3.1.8. Продажби (реализация)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/009-balances-turnovers-of-contragents.html">3.1.9. Салда и обороти на контрагенти</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/010-margin-and-profitability-of-sales-and-invoices.html">3.1.10. Марж и рентабилност на приходите от продажби</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/011-cost-center-reports.html">3.1.11. Справки върху центрове на себестойност</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/001-trade/012-vat-per-year.html">3.1.12. ДДС за година</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../003-rep/002-accounting/000-index.html">3.2. Счетоводство</a><input class="toctree-checkbox" id="toctree-checkbox-14" name="toctree-checkbox-14" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-14"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/001-synthetical-and-analytical-turnover-sheet.html">3.2.1. Оборотна ведомост</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/002-balances-and-turnovers-of-contragents.html">3.2.2. Салда и обороти на контрагенти</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/003-general-ledger.html">3.2.3. Главна книга</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/004-account-ledger.html">3.2.4. Дневник на сметка</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/005-purchase-ledger.html">3.2.5. Дневник на покупките</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/006-sales-ledger.html">3.2.6. Дневник на продажбите</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/007-goods-assets-report.html">3.2.7. Картон на стока/МЗ</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../003-rep/002-accounting/008-asset-depreciation-plan-printing.html">3.2.8. Печат на амортизационен план</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../004-user/000-index.html">4. Потребителски настройки на профил</a><input checked class="toctree-checkbox" id="toctree-checkbox-15" name="toctree-checkbox-15" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-15"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../004-user/001-settings.html">4.1. Настройки</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../004-user/002-doc-printing.html">4.2. Настройки при печат на документи</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../004-user/003-logo.html">4.3. Фирмено лого</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../004-user/004-send-mail-texts.html">4.4. Автоматичен текст при изпращане на e-mail</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../../blog/000-index.html">Блог</a><input checked class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-16"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20241121-bank-statement-import.html">Импорт на банкови извлечения</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20241112-lists-configuration.html">Работа със списъци</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240603-product-import.html">Импорт на продукти</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240601-how-to-start.html">Първи стъпки с Dreem ERP</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240522-price-lists-and-discount-schemes.html">Ценови листи и схеми с търговски отстъпки</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240517-working-periods.html">Работа с Работни периоди</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240507-attached-files.html">Прикачени файлове</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240423-fixed-assets.html">Дълготрайни активи</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240416-allocate-sales-costs.html">Разпределение на разходи за продажби</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240411-allocate-acquisition-costs.html">Разпределение на разходи за придобиване</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240331-correction-doc.html">Коригиращи документи при продажба</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240327-deferred-and-future-incomes.html">Приходи за бъдещи и минали периоди</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240327-deferred-and-future-expenses.html">Разходи за минали и бъдещи периоди</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240321-deferred-vat.html">Отложено начисляване на ДДС за покупки</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240311-dimensions.html">Потребителски дименсии</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../blog/20240219-POS-in-LAN.html">Как да използваме Dreem POS в локална мрежа</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/Unicontsoft/unicontsoft.github.io" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Хранилище на източника"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/Unicontsoft/unicontsoft.github.io/blob/master/./manual/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales.md?plain=1" target="_blank"
+   class="btn btn-sm btn-source-file-button dropdown-item"
+   title="Show source"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-code"></i>
+  </span>
+<span class="btn__text-container">Show source</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Режим на цял екран"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Генериране на фактура от множество продажби</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <p><a class="reference internal" href="000-index.html"><span class="doc std std-doc">Нагоре</span></a></p>
+<section class="tex2jax_ignore mathjax_ignore" id="id1">
+<h1><span class="section-number">2.2.1.5. </span>Генериране на фактура от множество продажби<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h1>
+<p>Системата дава възможност за обединяване на няколко документа за продажба на един контрагент в една фактура.<br />
+Тези документи се обработват в <strong>Търговска система || Документи за продажба</strong> и вариантите за издаване на обща фактура са следните:</p>
+<ol class="arabic simple">
+<li><p>Генерация от форма за нов документ:</p></li>
+</ol>
+<ul class="simple">
+<li><p>Чрез десен бутон на мишката върху списъка с документи се избира <strong>Нов документ</strong>. Отваря се празна форма за въвеждане на данни.</p></li>
+<li><p>От меню <strong>Средства</strong> се избира опция <strong>Генериране фактура от продажби</strong>. Това отваря форма за избор <strong>Редове на документи за продажба</strong>.</p></li>
+<li><p>От списъка с продажби се маркират желаните вътрешнофирмени документи и с бутон <strong>Напред</strong> се преминава към следваща стъпка.</p></li>
+</ul>
+<blockquote>
+<div><p>Ако търсените документите не се визуализират в списъка, трябва да се направи корекция на търсенето в <em>Бърз филтър</em> и/или в основния филтър (от жълтото поле).</p>
+</div></blockquote>
+<p><img alt="" class="align-center" src="../../../../_images/905-invoice-multiple-sales1.png" /></p>
+<ul class="simple">
+<li><p>Системата извежда списък с пълното съдържание на избраните документи за продажба. Тук се маркират продуктите, които системата да включи във фактурата.<br />
+С бутон <strong>Избор</strong> се продължава към следваща стъпка.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../../../../_images/905-invoice-multiple-sales2.png" /></p>
+<ul class="simple">
+<li><p>В резултат на предходните действия системата генерира <strong>ФПрод</strong>-<em>Фактура за продажба</em> и автоматично попълва всички полета.</p></li>
+</ul>
+<blockquote>
+<div><p>При наличие на еднакви продукти с еднакви цени в избраните продажби системата ги обединява в един ред с общо количество.</p>
+</div></blockquote>
+<p><img alt="" class="align-center" src="../../../../_images/905-invoice-multiple-sales3.png" /></p>
+<ul class="simple">
+<li><p>Обработката на фактурата за продажба завършва с бутон <strong>Приключен</strong> от лентата с инструменти. Той валидира фактурата и отваря форма <strong>Свързани документи</strong> за генериране на счетоводен запис.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../../../../_images/905-invoice-multiple-sales4.png" /></p>
+<ol class="arabic simple" start="2">
+<li><p>Генерация от списък <strong>Документи за продажба</strong>:</p></li>
+</ol>
+<ul class="simple">
+<li><p>От <strong>Търговска система || Документи за продажба</strong> се извежда списък с вътрешнофирмени документи. Търсенето се направлява от <em>Бърз филтър</em> и/или основния филтър.<br />
+Маркират се продажбите, които да бъдат включени в обща фактура.</p></li>
+<li><p>Чрез десен бутон върху маркировката се избира <strong>Други средства || Генериране фактура от продажби</strong>.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../../../../_images/905-invoice-multiple-sales5.png" /></p>
+<ul class="simple">
+<li><p>Системата извежда списък с пълното съдържание на избраните документи за продажба. Маркират се продуктите, които системата да включи във фактурата.<br />
+С бутон <strong>Избор</strong> се продължава към следваща стъпка.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../../../../_images/905-invoice-multiple-sales6.png" /></p>
+<ul class="simple">
+<li><p>В резултат на предходните действия системата генерира <strong>ФПрод</strong>-<em>Фактура за продажба</em> и автоматично попълва всички полета.</p></li>
+</ul>
+<p><img alt="" class="align-center" src="../../../../_images/905-invoice-multiple-sales7.png" /></p>
+<ul class="simple">
+<li><p>Данъчният документ се валидира чрез бутон <strong>Приключен</strong>, който отваря форма за генарция на свързани документи.<br />
+Тук системата предлага аветоматично генериране на счетоводен запис.</p></li>
+</ul>
+<hr class="docutils" />
+<p>Свързани статии:</p>
+<p><a class="reference external" href="https://www.unicontsoft.com/cms/node/29">Как да създадем Фактура от няколко продажби</a></p>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="004-currency-invoices.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title"><span class="section-number">2.2.1.4. </span>Създаване и печат на документи в чуждестранна валута</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="006-invoice-multiple-wd.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title"><span class="section-number">2.2.1.6. </span>Продажба/покупка с няколко складови документа</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+От Unicontsoft
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024 by Unicontsoft.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    <p class="last-updated">
+  Last updated on май 30, 2025.
+  <br/>
+</p>
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../../../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../../../../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
