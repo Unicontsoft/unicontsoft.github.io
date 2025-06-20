@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Dreem User's Manual"
-copyright = "2024 by Unicontsoft"
+copyright = "2025 by Unicontsoft"
 author = "Unicontsoft"
 
 # -- General configuration ---------------------------------------------------
@@ -48,9 +48,9 @@ html_theme_options = {
     "use_download_button": False,
     "use_sidenotes": True,
     "toc_title": "На страницата",
-    "show_toc_level": 1,
+    "show_toc_level": 2,
     "collapse_navigation": False,
-    "show_navbar_depth": 3,
+    "show_navbar_depth": 1,
     # "announcement": '<div class="bd-header-announcement__content">Test</div>',
     "icon_links": [
         {

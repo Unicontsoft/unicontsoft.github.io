@@ -1,6 +1,8 @@
 # Документация
 
- - [Ръководство на потребителя](manual/000-index.md)
+ - [Първи стъпки](start/000-index.md)
+ - [Ръководство на потребителя](guide/000-index.md)
+ - [Актуализации](update/000-index.md)
  - [Блог](blog/000-index.md)
 
 ## Индекси
@@ -12,6 +14,11 @@
 
 ```{toctree}
 :hidden:
-manual/000-index.md
+:includehidden:
+:maxdepth: 2
+
+start/000-index.md
+guide/000-index.md
+update/000-index.md
 blog/000-index.md
 ```

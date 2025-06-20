@@ -15,8 +15,6 @@
 
 ```{toctree}
 :caption: Съдържание
-:maxdepth: 3
-:includehidden:
 :numbered:
 001-ref/000-index.md
 002-docs/000-index.md

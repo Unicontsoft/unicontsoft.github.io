@@ -1,8 +1,7 @@
-# Блог
+# Dreem POS
 
 ```{toctree}
 :glob:
-:reversed:
 
 *
 ```

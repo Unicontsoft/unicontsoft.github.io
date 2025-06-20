@@ -1,8 +1,7 @@
-# Блог
+# Dreem Mobile
 
 ```{toctree}
 :glob:
-:reversed:
 
 *
 ```
