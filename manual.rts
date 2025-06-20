@@ -1,9 +1,12 @@
+[fonts]
+"DejaVu Sans Mono"=_fonts/DejaVuSansMono.ttf
+
 [STYLESHEET]
 name=DreemStyles
 base=sphinx
 
 [VARIABLES]
-mono_typeface=TeX Gyre Cursor
+mono_typeface=DejaVu Serif
 serif_typeface=DejaVu Serif
 sans_typeface=Roboto
 

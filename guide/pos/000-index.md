@@ -1,0 +1,7 @@
+# Dreem POS
+
+```{toctree}
+:glob:
+
+*
+```
