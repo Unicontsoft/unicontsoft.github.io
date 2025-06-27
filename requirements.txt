@@ -3,3 +3,4 @@ docutils>=0.19
 myst-parser
 sphinx_book_theme
 rinohtype
+rinoh-typeface-dejavusansmono

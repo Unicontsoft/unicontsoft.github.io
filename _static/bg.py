@@ -7,20 +7,21 @@
 
 
 from .cls import Language
-from ..structure import SectionTitles, AdmonitionTitles
 
 
-BG = Language('bg', 'Български')
-
-SectionTitles(
+BG = Language('bg', 'Български',
+    paragraph='Параграф',
+    section='Секция',
+    chapter='Глава',
+    figure='Фиг.',
+    table='Таблица',
+    listing='Листинг',
     contents='Съдържание',
     list_of_figures='Списък фигури',
     list_of_tables='Списък таблици',
-    chapter='Глава',
     index='Индекс',
-) in BG
 
-AdmonitionTitles(
+    # admonitions
     attention='Внимание!',
     caution='Внимание!',
     danger='!ОПАСНОСТ!',
@@ -31,5 +32,4 @@ AdmonitionTitles(
     tip='Съвет',
     warning='Предупреждение',
     seealso='Виж също',
-) in BG
-
+)

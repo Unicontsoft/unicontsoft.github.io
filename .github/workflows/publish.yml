@@ -10,11 +10,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.1
         
-      - name: Install latex
-        run: |
-            sudo apt-get update -y
-            sudo apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra
-
       - name: Build
         uses: ammaraskar/sphinx-action@master
         with:
@@ -23,7 +18,7 @@ jobs:
             pip install rinohtype
             cp _static/__init__.py /usr/local/lib/python3.8/site-packages/rinoh/language
             cp _static/bg.py /usr/local/lib/python3.8/site-packages/rinoh/language
-          build-command: "make html"
+          build-command: "make html rinoh"
         
       - name: Deploy HTML
         uses: JamesIves/github-pages-deploy-action@3.7.1
@@ -34,7 +29,6 @@ jobs:
             SINGLE_COMMIT: true
         
       - name: Deploy PDF
-        if: false
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

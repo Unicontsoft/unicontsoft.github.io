@@ -10,14 +10,6 @@ parts =
 stylesheet = manual.rts
 language = bg
 
-[SectionTitles]
-contents = 'Съдържание'
-
-[AdmonitionTitles]
-caution = 'Внимание!'
-warning = 'Внимание'
-tip = ''
-
 [VARIABLES]
 paper_size = A4
 
