@@ -37,8 +37,9 @@
 
 3) Раздел **Контрагент** - в този раздел на филтър формата има възможност за избор на един или няколко клиента по поделение, дилър и други;  
 
-![](908-sales-realization5.png){ class=align-center } 
+![](908-sales-realization5.png){ class=align-center w=15cm } 
 
 ___  
-Свързани статии:  
-[Продажби (реализация)](https://www.unicontsoft.com/cms/node/213)
+## Свързани статии
+
+- [Продажби (реализация)](https://www.unicontsoft.com/cms/node/213)

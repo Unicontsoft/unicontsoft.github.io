@@ -67,7 +67,7 @@
 Желателно е ATTACHMENT\_SUFFIX да се държи в синхрон с ATTACHMENT\_TYPE,
 например
 
-    MAIL_SUBJECT: Електронна фактура {ATTACHMENT_NAME}\!
+    MAIL_SUBJECT: Електронна фактура {ATTACHMENT_NAME}!
 
     ATTACHMENT_TYPE: 2
 

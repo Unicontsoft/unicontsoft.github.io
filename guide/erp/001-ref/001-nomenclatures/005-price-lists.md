@@ -65,8 +65,8 @@
  5) **Запис и Изход** — бутон в лентата с инструменти. Съхранява въведените настройки и излиза от формата.
 
 ___
-Свързани статии:
+## Свързани статии
 
-[Как да създадем Ценова листа?](https://www.unicontsoft.com/cms/node/14)  
-[Как да свържем Ценова листа с контрагент?](https://www.unicontsoft.com/cms/node/67)  
-[Ценови листи и схеми с търговски отстъпки](https://docs.unicontsoft.com/blog/20240522-price-lists-and-discount-schemes.html)
+- [Как да създадем Ценова листа?](https://www.unicontsoft.com/cms/node/14)  
+- [Как да свържем Ценова листа с контрагент?](https://www.unicontsoft.com/cms/node/67)  
+- [Ценови листи и схеми с търговски отстъпки](https://docs.unicontsoft.com/blog/20240522-price-lists-and-discount-schemes.html)

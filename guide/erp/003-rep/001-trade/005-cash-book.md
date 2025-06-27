@@ -18,9 +18,10 @@
 
 При поставена отметка за **Редуциран брой колони** в справката се изключват колони като *Курс*, *Стойност*, *Персона, *Док. основание*.  
 
-![](905-cash-book2.png){ class=align-center }
+![](905-cash-book2.png){ class=align-center w=15cm }
 
 ___  
 
-Свързани статии:  
-[Касова книга](https://www.unicontsoft.com/cms/node/160)
+## Свързани статии
+
+- [Касова книга](https://www.unicontsoft.com/cms/node/160)

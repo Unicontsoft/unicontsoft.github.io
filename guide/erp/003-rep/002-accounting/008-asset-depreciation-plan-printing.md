@@ -22,5 +22,6 @@
 
 ![](908-asset-depreciation-plan-printing.png){ class=align-center } 
 ___  
-Свързани статии:  
-[Амортизация на ДА - справки и генерация на счетоводни документи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id3)
+## Свързани статии
+
+- [Амортизация на ДА - справки и генерация на счетоводни документи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id3)
