@@ -22,4 +22,5 @@
 002-docs/000-index.md
 003-rep/000-index.md
 004-user/000-index.md
+005-how-to/000-index.md
 ```
