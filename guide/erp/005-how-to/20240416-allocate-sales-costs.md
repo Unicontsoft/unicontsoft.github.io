@@ -4,9 +4,9 @@
  
 # Разпределение на разходи за продажби
 
-- [Въведение]()
-- [Методи на разпределение]()   
-- [Справки за разпределение на разходите по продажби]()  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/20240416-allocate-sales-costs.html#id2)  
+- [Методи на разпределение](https://docs.unicontsoft.com/guide/erp/005-how-to/20240416-allocate-sales-costs.html#id3)   
+- [Справки за разпределение на разходите по продажби](https://docs.unicontsoft.com/guide/erp/005-how-to/20240416-allocate-sales-costs.html#id4)  
 
 
 ## Въведение 
