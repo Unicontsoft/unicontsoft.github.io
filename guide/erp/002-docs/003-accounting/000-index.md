@@ -5,7 +5,8 @@
 # Счетоводство
 
 ```{toctree}
-:glob: true
+:maxdepth: 1
+:glob:
 
 *
 ```
