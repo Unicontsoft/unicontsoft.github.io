@@ -4,12 +4,12 @@
 
 # Дълготрайни активи
 
-- [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/20240423-fixed-assets.html#id2)  
-- [Амортизация на дълготрайни активи](https://docs.unicontsoft.com/guide/erp/005-how-to/20240423-fixed-assets.html#id3)  
-- [Първоначално придобиване на ДА](https://docs.unicontsoft.com/guide/erp/005-how-to/20240423-fixed-assets.html#id4)  
-- [Печат на протокол за въвеждане в експлоатация](https://docs.unicontsoft.com/guide/erp/005-how-to/20240423-fixed-assets.html#id5)  
-- [Консервации на ДА](https://docs.unicontsoft.com/guide/erp/005-how-to/20240423-fixed-assets.html#id6)  
-- [Подобрения на ДА](https://docs.unicontsoft.com/guide/erp/005-how-to/20240423-fixed-assets.html#id7)  
+- [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id2)  
+- [Амортизация на дълготрайни активи](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id3)  
+- [Първоначално придобиване на ДА](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id4)  
+- [Печат на протокол за въвеждане в експлоатация](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id5)  
+- [Консервации на ДА](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id6)  
+- [Подобрения на ДА](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id7)  
 
 ## Настройки
 

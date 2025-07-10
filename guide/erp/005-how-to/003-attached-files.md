@@ -4,10 +4,10 @@
 
 # Прикачени файлове  
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/20240507-attached-files.html#id2)    
-- [Прикачване на файл за контрагент](https://docs.unicontsoft.com/guide/erp/005-how-to/20240507-attached-files.html#id3)  
-- [Прикачване на файл към продукт]()  
-- [Прикачване на файл в документ]()  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/003-attached-files.html#id2)    
+- [Прикачване на файл за контрагент](https://docs.unicontsoft.com/guide/erp/005-how-to/003-attached-files.html#id3)  
+- [Прикачване на файл към продукт](https://docs.unicontsoft.com/guide/erp/005-how-to/003-attached-files.html#id4)  
+- [Прикачване на файл в документ](https://docs.unicontsoft.com/guide/erp/005-how-to/003-attached-files.html#id5)  
 
 ## Въведение
 

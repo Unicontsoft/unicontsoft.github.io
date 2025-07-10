@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Описание и функционалности на контейнера
+# Характеристики на контейнера
 
 - [Лента с основно меню](https://docs.unicontsoft.com/start/002-container.html#id2)  
 - [Лента с инструменти](https://docs.unicontsoft.com/start/002-container.html#id3)  
