@@ -4,11 +4,11 @@
 
 # Работа със списъци
 
-- [Структура и функционалности на контейнера](https://docs.unicontsoft.com/start/002-lists-configuration.html#id2)
-- [Използване на основни и бързи филтри](https://docs.unicontsoft.com/start/002-lists-configuration.html#id7)
-- [Работа с редактируеми списъци](https://docs.unicontsoft.com/start/002-lists-configuration.html#id10)
-- [Работа с нередактируеми списъци](https://docs.unicontsoft.com/start/002-lists-configuration.html#id11)
-- [Използване на Списък с данни в справките](https://docs.unicontsoft.com/start/002-lists-configuration.html#id12)
+- [Структура и функционалности на контейнера](https://docs.unicontsoft.com/start/003-lists-configuration.html#id2)
+- [Използване на основни и бързи филтри](https://docs.unicontsoft.com/start/003-lists-configuration.html#id7)
+- [Работа с редактируеми списъци](https://docs.unicontsoft.com/start/003-lists-configuration.html#id10)
+- [Работа с нередактируеми списъци](https://docs.unicontsoft.com/start/003-lists-configuration.html#id11)
+- [Използване на Списък с данни в справките](https://docs.unicontsoft.com/start/003-lists-configuration.html#id12)
 
 Списъците в системата представляват набор от записи (редове) в множество колони, които могат да бъдат конфигурирани различно според нуждите на потребителите. Системата дава възможност за добавяне, скриване, разместване, оразмеряване, сортиране и групиране на колони.  
 
