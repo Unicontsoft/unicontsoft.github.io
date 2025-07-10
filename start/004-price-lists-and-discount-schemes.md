@@ -4,9 +4,9 @@
 
 # Ценови листи и схеми с търговски отстъпки
 
-- [Ценови листи]()   
-- [Промоции]()  
-- [Търговски отстъпки]()  
+- [Ценови листи](https://docs.unicontsoft.com/start/004-price-lists-and-discount-schemes.html#id2)   
+- [Промоции](https://docs.unicontsoft.com/start/004-price-lists-and-discount-schemes.html#id3)  
+- [Търговски отстъпки](https://docs.unicontsoft.com/start/004-price-lists-and-discount-schemes.html#id4)  
 
 ## Ценови листи
 
