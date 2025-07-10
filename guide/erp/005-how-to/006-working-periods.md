@@ -4,7 +4,7 @@
 
 # Работа с Работни периоди  
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/20240517-working-periods.html#id2)  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html#id2)  
 - [Разрешителен работен период](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html#id3)  
 - [Настройка на забранителен период след годишно счетоводно приключване](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html#id4)    
 - [Настройка на забранителен период след подадени месечни отчети по ЗДДС](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html#id5)  

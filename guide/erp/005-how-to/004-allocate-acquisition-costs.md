@@ -6,7 +6,7 @@
 # Разпределение на разходи за придобиване
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id2)  
-- [Методи за разпределение](https://docs.unicontsoft.com/guide/erp/005-how-to/20240411-allocate-acquisition-costs.html#id3)   
+- [Методи за разпределение](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id3)   
 - [Разпределение на разходи при общ документ с покупката на стоки](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id4)    
 - [Справки за разпределение на разходите по придобиване](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id5)  
 - [Счетоводни настройки и документи](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id6)  
