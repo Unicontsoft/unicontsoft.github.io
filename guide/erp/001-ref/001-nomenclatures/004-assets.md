@@ -3,8 +3,7 @@
 ```
 
 # Създаване на ДМА
-
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id1)  
+ 
 - [Създаване на нов ДА](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id2)  
 - [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id3)  
 - [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id4)

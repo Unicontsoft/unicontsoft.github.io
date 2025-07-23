@@ -10,6 +10,7 @@
 - [Разпределение на разходи при общ документ с покупката на стоки](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id4)    
 - [Справки за разпределение на разходите по придобиване](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id5)  
 - [Счетоводни настройки и документи](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id6)  
+
 ## Въведение
 
 Получените от доставчик стоково-материални запаси се отразяват в системата чрез [въвеждането на документи за покупка](https://www.unicontsoft.com/cms/node/23). Към тях се генерират складови документи, с което продуктите се заприходяват по покупна цена(без ДДС).  

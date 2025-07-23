@@ -3,8 +3,7 @@
 ```
 
 # Продукти
-
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id1)  
+ 
 - [Създаване на нов продукт](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id2)  
 - [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id3)  
 - [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id4)  

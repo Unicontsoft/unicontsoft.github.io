@@ -3,8 +3,7 @@
 ```
 
 # Контрагенти
-
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id1)  
+ 
 - [Създаване на нов контрагент](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id2)  
 - [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id3)  
 - [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id4)  
