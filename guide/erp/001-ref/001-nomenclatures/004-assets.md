@@ -3,10 +3,13 @@
 ```
 
 # Създаване на ДМА
- 
-- [Създаване на нов ДА](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id2)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id4)
+
+- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id2)   
+- [Създаване на нов ДА](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id3)  
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id4)  
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id5)
+
+## Въведение  
 
 Системата поддържа функционалност, която позволява ефективното управление на ДА на организацията. Чрез **Номенклатури || Дълготрайни активи** може да заведете всички ДА в системата и да генерирате данъчен и счетоводен амортизационен план за всеки от тях.  
 Амортизациите на ДА могат да бъдат осчетоводени автоматично чрез инструмент за генерация.  

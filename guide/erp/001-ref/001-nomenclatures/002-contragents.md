@@ -3,10 +3,13 @@
 ```
 
 # Контрагенти
- 
-- [Създаване на нов контрагент](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id2)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id4)  
+
+- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id2)   
+- [Създаване на нов контрагент](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id3)  
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id4)  
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id5)  
+
+## Въведение  
 
 За системата **Контрагенти** са всички складове, с които потребителят на продукта работи, всички физически и юридически лица - доставчици, клиенти, консигнатори, куриери, банки, държавни институции и служители.  
 
