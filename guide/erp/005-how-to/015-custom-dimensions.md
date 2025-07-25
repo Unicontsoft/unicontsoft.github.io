@@ -53,4 +53,4 @@
 
 ## **Свързани статии**
 
-[Създаване на Потребителски дименсии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-custom-dimensions.html#id3)  
+[Създаване на Потребителски дименсии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-custom-dimensions.html#id1)  
