@@ -13,18 +13,44 @@ update/000-index.md
 blog/000-index.md
 ```
 
-## Ръководства за потребителя
+## Ръководство за Dreem ERP
 
- - [Dreem ERP](guide/erp/000-index.md)
+ - [Настройки](guide/erp/001-ref/000-index.md)
+ - [Документи и процеси](guide/erp/002-docs/000-index.md)
+ - [Справки](guide/erp/003-rep/000-index.md)
+ - [Функционални удобства](guide/erp/004-tips/000-index.md)
+ - [Често срещани казуси](guide/erp/005-how-to/000-index.md)
+
+```{toctree}
+:hidden:
+:caption: Ръководство за Dreem ERP
+
+guide/erp/001-ref/000-index.md
+guide/erp/002-docs/000-index.md
+guide/erp/003-rep/000-index.md
+guide/erp/004-tips/000-index.md
+guide/erp/005-how-to/000-index.md
+```
+
+## Ръководство за Dreem POS
+
  - [Dreem POS](guide/pos/000-index.md)
+
+```{toctree}
+:hidden:
+:caption: Ръководство за Dreem POS
+
+guide/pos/000-index.md
+```
+
+## Ръководство за Dreem Mobile
+
  - [Dreem Mobile](guide/mob/000-index.md)
 
 ```{toctree}
 :hidden:
-:caption: Ръководства за потребителя
+:caption: Ръководство за Dreem Mobile
 
-guide/erp/000-index.md
-guide/pos/000-index.md
 guide/mob/000-index.md
 ```
 
