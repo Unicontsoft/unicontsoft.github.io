@@ -4,7 +4,7 @@
  
 # Получени банкови заеми  
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/011-bank-loans.html#2)  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/011-bank-loans.html#id2)  
 - [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/011-bank-loans.html#id3)  
 - [Усвояване и погасяване на получен заем](https://docs.unicontsoft.com/guide/erp/005-how-to/011-bank-loans.html#id4)  
 - [Счетоводни документи](https://docs.unicontsoft.com/guide/erp/005-how-to/011-bank-loans.html#id5)  

@@ -4,9 +4,12 @@
 
 # Kомплектуване и разкомплектуване
 
-- [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id1)  
-- [Комплектуване](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id2)  
-- [Разкомплектуване](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id3)  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id1)
+- [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id2)  
+- [Комплектуване](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id3)  
+- [Разкомплектуване](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id4)  
+
+## **Въведение**
 
 Системата разполага с инструмент за комплектуване - обединяване на компоненти в единна стокова единица, и за разкомплектуване на продукт на съставните му части. Комплектуването и разкомплектуването се осъществяват на база настроени рецепти.  
 

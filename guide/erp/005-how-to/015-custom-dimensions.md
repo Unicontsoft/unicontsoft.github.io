@@ -4,8 +4,9 @@
 
 # Използване на дименсиите в Продукти и материали
 
-- [Въведение]()  
-- [Използване на дименсиите в Продукти и материали]()  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/015-custom-dimensions.html#id2)  
+- [Използване на дименсиите в Продукти и материали](https://docs.unicontsoft.com/guide/erp/005-how-to/015-custom-dimensions.html#id3)  
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/005-how-to/015-custom-dimensions.html#id4)  
 
 ## **Въведение**
 
