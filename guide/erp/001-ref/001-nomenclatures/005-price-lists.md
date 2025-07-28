@@ -133,4 +133,4 @@
 
 ## **Свързани статии**
  
-- [Ценови листи и схеми с търговски отстъпки](https://docs.unicontsoft.com/blog/20240522-price-lists-and-discount-schemes.html)
+- [Ценови листи и схеми с търговски отстъпки](https://docs.unicontsoft.com/start/006-price-lists-and-discount-schemes.html)

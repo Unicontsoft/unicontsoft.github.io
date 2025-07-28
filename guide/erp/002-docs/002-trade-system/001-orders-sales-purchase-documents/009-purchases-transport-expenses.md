@@ -63,4 +63,4 @@ ___
 ## Свързани статии
 
 - [Как да разпределим разходи по покупка](https://www.unicontsoft.com/cms/node/148)  
-- [Разпределение на разходи за придобиване](https://docs.unicontsoft.com/blog/20240411-allocate-acquisition-costs.html)
+- [Разпределение на разходи за придобиване](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html)

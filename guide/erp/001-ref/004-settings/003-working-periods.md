@@ -39,4 +39,4 @@
 ___
 ## Свързани статии
 
-- [Работа с Работни периоди ](https://docs.unicontsoft.com/blog/20240517-working-periods.html)  
+- [Работа с Работни периоди ](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html)  

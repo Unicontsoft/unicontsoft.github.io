@@ -72,5 +72,5 @@ ___
 - [Как да въведем Начално салдо на банкова сметка](https://www.unicontsoft.com/cms/node/178)  
 - [Как да въведем Банково извлечение](https://www.unicontsoft.com/cms/node/38)  
 - [Как да въведем Групово плащане](https://www.unicontsoft.com/cms/node/139)  
-- [Как да импортираме банкови извлечения](https://docs.unicontsoft.com/blog/20241121-bank-statement-import.html)  
+- [Как да импортираме банкови извлечения](https://docs.unicontsoft.com/guide/erp/005-how-to/001-bank-statement-import.html)  
 - [Как да импортираме документи по опис](https://www.unicontsoft.com/cms/node/255)  

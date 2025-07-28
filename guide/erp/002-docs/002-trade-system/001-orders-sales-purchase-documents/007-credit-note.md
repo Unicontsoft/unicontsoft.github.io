@@ -81,4 +81,4 @@ ___
 
 - [Как да създадем Кредитен документ/Кредитно известие за количество](https://www.unicontsoft.com/cms/node/48)  
 - [Как да създадем Кредитен документ/Кредитно известие за цена](https://www.unicontsoft.com/cms/node/28)  
-- [Коригиращи документи при продажба](https://docs.unicontsoft.com/blog/20240331-correction-doc.html)
+- [Коригиращи документи при продажба](https://docs.unicontsoft.com/guide/erp/005-how-to/002-correction-doc.html)
