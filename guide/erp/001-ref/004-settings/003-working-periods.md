@@ -7,7 +7,7 @@
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id2)  
 - [Нов работен период](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id3)  
 - [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id5)   
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id5)  
 
 ## **Въведение**
 
