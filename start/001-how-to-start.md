@@ -126,4 +126,4 @@
 
 Справките могат да имат различен изглед - *Графичен изглед* или [*Списък с данни*](https://docs.unicontsoft.com/start/003-lists-configuration.html#id12). Графичният изглед представя вида на справката при печат. При *Списък с данни* информацията е оформена в табличен вид. В този случай може да прилагате [правилата за работа с нередактируеми списъци](https://docs.unicontsoft.com/start/003-lists-configuration.html#id11). При този изглед конфигурацията на справката може да се променя.  
 
-Според източника на данни справките могат да бъдат разглеждани като [обработващи документи от **Търговска система**](https://docs.unicontsoft.com/guide/erp/003-rep/001-trade/000-index.html) и от [**Счетоводство**](https://docs.unicontsoft.com/guide/erp/003-rep/002-accounting/000-index.html).
+Според източника на данни справките могат да бъдат разглеждани като обработващи документи от [**Търговска система**](https://docs.unicontsoft.com/guide/erp/003-rep/001-trade/000-index.html) и от [**Счетоводство**](https://docs.unicontsoft.com/guide/erp/003-rep/002-accounting/000-index.html).
