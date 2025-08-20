@@ -6,7 +6,7 @@
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id2)  
 - [Създаване на валутна продажба](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id3)  
-- [Настройки на наименования за печат на чужд език](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id4)  
+- [Настройки при печат на чуждоезикова фактура](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id4)  
 - [Използване на шаблон за печат на валутна фактура](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id5)
 - [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id6)  
 
@@ -46,7 +46,7 @@
 
 > При осчетоводяването на валутни документи сумата на вземането/задължението ще се отрази едновременно с валутна и левова стойност.  
 
-## **Настройки при печат на чуждоезикова продажба**
+## **Настройки при печат на чуждоезикова фактура**
 
 1) **Типове документи** - Една от основните настройки за превод е наименованието на различните документи. Тя е достъпна в **Номенклатури || Типове документи**. Чрез десен бутон на мишката върху реда с типа документ се избира опция **Преведи**. Това отваря форма за редакция **Многоезичност**.  
 
