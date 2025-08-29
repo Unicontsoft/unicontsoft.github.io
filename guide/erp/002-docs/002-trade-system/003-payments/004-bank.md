@@ -6,7 +6,8 @@
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id2)  
 - [Създаване на банков документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id4)  
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id4)  
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id5)  
 
 ## **Въведение**
 
