@@ -6,7 +6,8 @@
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id2)  
 - [Създаване на счетоводен документ](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id4)  
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id4)  
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id5)
 
 ## **Въведение**
 
