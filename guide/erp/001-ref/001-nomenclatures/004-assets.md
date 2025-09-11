@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Създаване на ДМА
+# **Създаване на ДМА**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id2)   
 - [Създаване на нов ДА](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id3)  

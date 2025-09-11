@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Банкови документи
+# **Банкови документи**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id2)  
 - [Създаване на банков документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id3)  

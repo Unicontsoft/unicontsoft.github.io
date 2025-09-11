@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Използване на дименсиите в Продукти и материали
+# **Използване на дименсиите в Продукти и материали**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/015-custom-dimensions.html#id2)  
 - [Използване на дименсиите в Продукти и материали](https://docs.unicontsoft.com/guide/erp/005-how-to/015-custom-dimensions.html#id3)  

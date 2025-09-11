@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
  
-# Получени банкови заеми  
+# **Получени банкови заеми**  
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/011-bank-loans.html#id2)  
 - [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/011-bank-loans.html#id3)  

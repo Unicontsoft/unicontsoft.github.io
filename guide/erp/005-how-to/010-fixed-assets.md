@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Дълготрайни активи
+# **Дълготрайни активи**
 
 - [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id2)  
 - [Амортизация на дълготрайни активи](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html#id3)  

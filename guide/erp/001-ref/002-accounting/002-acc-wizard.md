@@ -2,7 +2,8 @@
 [Нагоре](000-index)
 ```
 
-# Автоматичен осчетоводител
+# **Автоматичен осчетоводител**
+
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/002-acc-wizard.html#id2)  
 - [Настройка на автоматични контировки](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/002-acc-wizard.html#id3)  
 - [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/002-acc-wizard.html#id4)  

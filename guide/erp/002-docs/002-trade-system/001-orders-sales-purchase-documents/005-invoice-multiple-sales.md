@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Издаване на фактура от множество продажби
+# **Издаване на фактура от множество продажби**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales.html#id2)  
 - [Генерация от форма с нов документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales.html#id3)

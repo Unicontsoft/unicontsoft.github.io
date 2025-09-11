@@ -3,7 +3,7 @@
 ```
  
 
-# Приходи за бъдещи и минали периоди  
+# **Приходи за бъдещи и минали периоди**  
 
 - [Въведение и настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/009-deferred-and-future-incomes.html#id2)
 - [Отразяване на приходите за бъдещи и минали периоди](https://docs.unicontsoft.com/guide/erp/005-how-to/009-deferred-and-future-incomes.html#id3)

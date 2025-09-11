@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Кредитен документ/Кредитно известие за продажба
+# **Кредитен документ/Кредитно известие за продажба**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/007-credit-note.html#id2)  
 - [Генериране на кредитен документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/007-credit-note.html#id3)  

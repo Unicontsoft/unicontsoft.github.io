@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Потребители и групи
+# **Потребители и групи**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/001-users.html#id2)  
 - [Потребители](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/001-users.html#id3)  

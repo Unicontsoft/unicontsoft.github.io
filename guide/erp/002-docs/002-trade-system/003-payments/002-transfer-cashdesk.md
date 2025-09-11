@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Прехвърляне на средства между каси
+# **Прехвърляне на средства между каси**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/002-transfer-cashdesk.html#id2)  
 - [Създаване на документ за трансфер на средства](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/002-transfer-cashdesk.html#id3)  

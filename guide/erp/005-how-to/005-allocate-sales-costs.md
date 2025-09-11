@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
  
-# Разпределение на разходи за продажби
+# **Разпределение на разходи за продажби**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/005-allocate-sales-costs.html#id2)  
 - [Методи на разпределение](https://docs.unicontsoft.com/guide/erp/005-how-to/005-allocate-sales-costs.html#id3)   

@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Прехвърляне на средства между банка и каса
+# **Прехвърляне на средства между банка и каса**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/005-transfer-bank.html#id2)  
 - [Прехвърляне на средства между банка и каса](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/005-transfer-bank.html#id3)  

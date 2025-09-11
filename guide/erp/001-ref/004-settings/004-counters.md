@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Номератори
+# **Номератори**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/004-counters.html#id2)  
 - [Добавяне на номератор](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/004-counters.html#id3)  

@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Разпределяне на разходи за придобиване
+# **Разпределяне на разходи за придобиване**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/009-purchases-transport-expenses.html#id2)  
 - [Разпределяне на разходи](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/009-purchases-transport-expenses.html#id3)  

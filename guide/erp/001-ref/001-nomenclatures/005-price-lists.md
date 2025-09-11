@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Ценови листи
+# **Ценови листи**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/005-price-lists.html#id2)   
 - [Създаване на нова ценова листа](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/005-price-lists.html#id3)  

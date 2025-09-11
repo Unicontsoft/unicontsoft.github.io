@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Прихващания
+# **Прихващания**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/003-offsets.html#id2)  
 - [Създаване на нов протокол за прихващане](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/003-offsets.html#id3)  

@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Работа с Работни периоди  
+# **Работа с Работни периоди**  
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html#id2)  
 - [Разрешителен работен период](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html#id3)  

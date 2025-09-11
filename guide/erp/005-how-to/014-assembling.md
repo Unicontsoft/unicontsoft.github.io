@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Kомплектуване и разкомплектуване
+# **Kомплектуване и разкомплектуване**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id1)
 - [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/014-assembling.html#id2)  

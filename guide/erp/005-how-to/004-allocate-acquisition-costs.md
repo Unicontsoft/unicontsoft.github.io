@@ -3,7 +3,7 @@
 ```
 
 
-# Разпределение на разходи за придобиване
+# **Разпределение на разходи за придобиване**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id2)  
 - [Методи за разпределение](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html#id3)   

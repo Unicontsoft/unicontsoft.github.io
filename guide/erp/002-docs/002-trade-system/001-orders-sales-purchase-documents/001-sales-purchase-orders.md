@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Документи за заявка
+# **Документи за заявка**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/001-sales-purchase-orders.html#id2)  
 - [Създаване на документ за заявка](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/001-sales-purchase-orders.html#id3)  

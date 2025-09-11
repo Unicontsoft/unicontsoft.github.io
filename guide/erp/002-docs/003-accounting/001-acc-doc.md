@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Създаване на счетоводен документ 
+# **Създаване на счетоводен документ** 
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id2)  
 - [Създаване на счетоводен документ](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id3)  

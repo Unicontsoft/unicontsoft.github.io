@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Продажба/покупка с няколко складови документа
+# **Продажба/покупка с няколко складови документа**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/006-invoice-multiple-wd.html#id2)  
 - [Регистриране на няколко доставки към една продажба/покупка](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/006-invoice-multiple-wd.html#id2)

@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Протоколи за инвентаризация
+# **Протоколи за инвентаризация**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/004-inventory.html#id2)  
 - [Създаване на протоколи за инвентаризация](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/004-inventory.html#id3)  

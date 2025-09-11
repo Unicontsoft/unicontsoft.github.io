@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Програми за лоялност
+# **Програми за лоялност**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/007-loyalty-programs.html#id2)  
 - [Създаване на нова програма за лоялност](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/007-loyalty-programs.html#id3)  

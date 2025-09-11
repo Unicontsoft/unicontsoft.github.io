@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Болнични документи
+# **Болнични документи**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/003-medical-documents.html#id2)  
 - [Създаване на нов болничен документ](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/003-medical-documents.html#id3)  

@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Сметкоплан
+# **Сметкоплан**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html#id2)  
 - [Добавяне на нова счетоводна сметка](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html#id3)  

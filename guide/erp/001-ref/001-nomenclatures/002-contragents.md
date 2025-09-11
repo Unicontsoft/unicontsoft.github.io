@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Контрагенти
+# **Контрагенти**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id2)   
 - [Създаване на нов контрагент](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id3)  

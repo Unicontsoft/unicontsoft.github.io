@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Търговски отстъпки
+# **Търговски отстъпки**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/006-discount-schemes.html#id2)  
 - [Създаване на схема с ТО%](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/006-discount-schemes.html#id3)  

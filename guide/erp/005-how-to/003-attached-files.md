@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Прикачени файлове  
+# **Прикачени файлове**  
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/003-attached-files.html#id2)    
 - [Прикачване на файл за контрагент](https://docs.unicontsoft.com/guide/erp/005-how-to/003-attached-files.html#id3)  

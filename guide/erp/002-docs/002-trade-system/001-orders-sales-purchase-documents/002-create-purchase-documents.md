@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Създаване на документ за покупка
+# **Създаване на документ за покупка**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.html#id2)  
 - [Създаване на покупка](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.html#id3)  

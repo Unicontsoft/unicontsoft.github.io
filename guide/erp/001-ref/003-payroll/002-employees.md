@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Номенклатура Служители
+# **Номенклатура Служители**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/003-payroll/002-employees.html#id2)  
 - [Добавяне на нов служител](https://docs.unicontsoft.com/guide/erp/001-ref/003-payroll/002-employees.html#id3)  

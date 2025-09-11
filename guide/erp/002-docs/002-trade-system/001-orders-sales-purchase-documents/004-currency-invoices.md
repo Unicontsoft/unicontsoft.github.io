@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Създаване и печат на документи в чуждестранна валута
+# **Създаване и печат на документи в чуждестранна валута**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id2)  
 - [Създаване на валутна продажба](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id3)  

@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Начално салдо на склад
+# **Начално салдо на склад**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/002-beg-saldo.html#id2)  
 - [Въвеждане на начално салдо](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/002-beg-saldo.html#id3)  

@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
  
-# Отчитане на разходи за заплати по центрове на себестойност 
+# **Отчитане на разходи за заплати по центрове на себестойност** 
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/013-cost-center-payroll-expenses.html#id2)
 - [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/013-cost-center-payroll-expenses.html#id3)  

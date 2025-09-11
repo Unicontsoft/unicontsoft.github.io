@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Потребителски дименсии
+# **Потребителски дименсии**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-custom-dimensions.html#id2)
 - [Настройка на Списъци](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-custom-dimensions.html#id3)  

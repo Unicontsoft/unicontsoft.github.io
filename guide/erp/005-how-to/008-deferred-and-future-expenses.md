@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
  
-# Разходи за минали и бъдещи периоди  
+# **Разходи за минали и бъдещи периоди**  
 
 - [Въведение и настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/008-deferred-and-future-expenses.html#id2)  
 - [Разходи за минали периоди](https://docs.unicontsoft.com/guide/erp/005-how-to/008-deferred-and-future-expenses.html#id3)  

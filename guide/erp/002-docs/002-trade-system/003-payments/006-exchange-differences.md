@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Валутна преоценка
+# **Валутна преоценка**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/006-exchange-differences.html#id2)  
 - [Създаване на банков документ за валутна преоценка](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/006-exchange-differences.html#id3)  

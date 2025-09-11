@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
  
-# Отчитане на разходи за лихви по банкови заеми  
+# **Отчитане на разходи за лихви по банкови заеми**  
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/012-bank-loan-interest.html#id2)  
 - [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/012-bank-loan-interest.html#id3)  

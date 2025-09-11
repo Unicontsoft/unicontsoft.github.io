@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Трансфер на продукти между складове
+# **Трансфер на продукти между складове**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/003-transfer.html#id2)  
 - [Създаване на документи за трансфер между складове](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/003-transfer.html#id3)  

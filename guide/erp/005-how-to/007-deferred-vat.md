@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# ДДС по покупки: Отложено използване на данъчен кредит  
+# **ДДС по покупки: Отложено използване на данъчен кредит**  
 
 - [Въведение и задължителни настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/007-deferred-vat.html#id2)   
 - [Покупка с отложен ДДС](https://docs.unicontsoft.com/guide/erp/005-how-to/007-deferred-vat.html#id3)  

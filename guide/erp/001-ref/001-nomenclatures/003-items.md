@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Продукти
+# **Продукти и материали**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id2)
 - [Създаване на нов продукт](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id3)  

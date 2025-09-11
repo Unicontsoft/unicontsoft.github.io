@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Създаване на касов документ
+# **Създаване на касов документ**
 
 - [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/001-cashdesk.html#id2)  
 - [Създаване на нов касов документи](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/001-cashdesk.html#id3)  
