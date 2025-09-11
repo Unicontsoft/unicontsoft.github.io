@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Ценови листи и схеми с ТО%
+# **Ценови листи и схеми с ТО%**
 
 - [Ценови листи](https://docs.unicontsoft.com/start/006-price-lists-and-discount-schemes.html#id2)   
 - [Промоции](https://docs.unicontsoft.com/start/006-price-lists-and-discount-schemes.html#id3)  

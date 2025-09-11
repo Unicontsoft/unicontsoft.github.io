@@ -2,7 +2,7 @@
 [Нагоре](000-index)
 ```
 
-# Работа със списъци
+# **Работа със списъци**
 
 - [Структура и функционалности на контейнера](https://docs.unicontsoft.com/start/003-lists-configuration.html#id2)
 - [Използване на основни и бързи филтри](https://docs.unicontsoft.com/start/003-lists-configuration.html#id7)
