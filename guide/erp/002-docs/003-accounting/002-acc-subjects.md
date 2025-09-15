@@ -4,10 +4,10 @@
 
 # **Създаване на счетоводен признак** 
 
-- [Въведение]()  
-- [Създаване на счетоводен признак]()  
-- [Реквизити]()  
-- [Свързани статии]()
+- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/002-acc-subjects.html#id2)  
+- [Създаване на счетоводен признак](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/002-acc-subjects.html#id3)  
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/002-acc-subjects.html#id4)  
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/002-acc-subjects.html#id5)
 
 ## **Въведение**
 
