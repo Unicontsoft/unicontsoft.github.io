@@ -4,11 +4,11 @@
 
 # **Потребителски дименсии**
 
-- [Въведение]()
-- [Настройка на Списъци]()  
-- [Настройка на Дименсии]()  
-- [Реквизити]()
-- [Свързани статии]()  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-custom-dimensions.html#id2)
+- [Настройка на Списъци](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-custom-dimensions.html#id3)  
+- [Настройка на Дименсии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-custom-dimensions.html#id4)  
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-custom-dimensions.html#id5)
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-custom-dimensions.html#id6)  
 
 ## **Въведение**
 

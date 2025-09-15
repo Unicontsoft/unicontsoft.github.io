@@ -4,10 +4,10 @@
 
 # **Маршрути**
 
-- [Въведение]()
-- [Създаване на нов маршрут]()   
-- [Реквизити]()
-- [Свързани статии]()  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-dealer-routes.html#id2)
+- [Създаване на нов маршрут](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-dealer-routes.html#id3)   
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-dealer-routes.html#id4)
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-dealer-routes.html#id5)  
 
 ## **Въведение**
 
