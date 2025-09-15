@@ -62,3 +62,6 @@
 
 ## **Свързани статии**  
 
+[Референтни номенклатури](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/001-ref-nomenclatures.html)  
+[Контрагенти](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html)  
+[Създаване на документ за продажба](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html)  
