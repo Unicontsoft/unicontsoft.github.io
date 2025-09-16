@@ -4,10 +4,10 @@
 
 # **Програми за лоялност**
 
-- [Въведение]()  
-- [Създаване на нова програма за лоялност]()  
-- [Реквизити]()  
-- [Свързани статии]()  
+- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-loyalty-programs.html#id2)  
+- [Създаване на нова програма за лоялност](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-loyalty-programs.html#id3)  
+- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-loyalty-programs.html#id4)  
+- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/008-loyalty-programs.html#id5)  
 
 ## **Въведение**
 
