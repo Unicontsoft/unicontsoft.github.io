@@ -136,4 +136,4 @@
 
 ## **Свързани статии**
  
-- [Дълготрайни активи](/guide/erp/005-how-to/010-fixed-assets.html)
+- [Дълготрайни активи](https://docs.unicontsoft.com/guide/erp/005-how-to/010-fixed-assets.html)
