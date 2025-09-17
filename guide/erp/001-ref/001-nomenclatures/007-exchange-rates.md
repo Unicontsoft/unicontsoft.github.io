@@ -4,10 +4,10 @@
 
 # **Валутни курсове**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/007-exchange-rates.html#id2)  
-- [Добавяне на нов валутен курс](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/007-exchange-rates.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/007-exchange-rates.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/007-exchange-rates.html#id5)  
+- [Въведение](#въведение)  
+- [Добавяне на нов валутен курс](#добавяне-на-нов-валутен-курс)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -59,4 +59,4 @@
 
 ## **Свързани статии**
 
-[Референтни номенклатури](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/001-ref-nomenclatures.html)  
+[Референтни номенклатури](001-ref-nomenclatures.html)  

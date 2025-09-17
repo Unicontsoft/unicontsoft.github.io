@@ -4,10 +4,10 @@
 
 # **Търговски отстъпки**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/006-discount-schemes.html#id2)  
-- [Създаване на схема с ТО%](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/006-discount-schemes.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/006-discount-schemes.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/006-discount-schemes.html#id5)  
+- [Въведение](#въведение)  
+- [Създаване на схема с ТО%](#създаване-на-схема-с-то)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

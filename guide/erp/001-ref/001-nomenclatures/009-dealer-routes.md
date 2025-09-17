@@ -4,10 +4,10 @@
 
 # **Маршрути**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-dealer-routes.html#id2)
-- [Създаване на нов маршрут](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-dealer-routes.html#id3)   
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-dealer-routes.html#id4)
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/009-dealer-routes.html#id5)  
+- [Въведение](#въведение)
+- [Създаване на нов маршрут](#създаване-на-нов-маршрут)   
+- [Реквизити](#реквизити)
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -62,6 +62,6 @@
 
 ## **Свързани статии**  
 
-[Референтни номенклатури](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/001-ref-nomenclatures.html)  
-[Контрагенти](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html)  
-[Създаване на документ за продажба](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html)  
+[Референтни номенклатури](001-ref-nomenclatures.html)  
+[Контрагенти](002-contragents.html)  
+[Създаване на документ за продажба](../../002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html)  

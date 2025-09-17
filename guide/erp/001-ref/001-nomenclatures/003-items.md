@@ -4,10 +4,10 @@
 
 # **Продукти и материали**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id2)
-- [Създаване на нов продукт](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html#id5)  
+- [Въведение](#въведение)
+- [Създаване на нов продукт](#създаване-на-нов-продукт)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение** 
 
