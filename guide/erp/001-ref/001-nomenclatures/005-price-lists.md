@@ -4,10 +4,10 @@
 
 # **Ценови листи**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/005-price-lists.html#id2)   
-- [Създаване на нова ценова листа](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/005-price-lists.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/005-price-lists.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/005-price-lists.html#id5)
+- [Въведение](#въведение)   
+- [Създаване на нова ценова листа](#създаване-на-нова-ценова-листа)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**  
 
@@ -130,7 +130,6 @@
         - *Надценка* - попълва се стойност на желаната надценка в проценти;  
         - *Добавка* - опция с точна сума, която да се добави в цената;  
 
-
 ## **Свързани статии**
  
-- [Ценови листи и схеми с търговски отстъпки](../start/006-price-lists-and-discount-schemes.md)
+- [Ценови листи и схеми с търговски отстъпки](../../../../start/006-price-lists-and-discount-schemes.md)

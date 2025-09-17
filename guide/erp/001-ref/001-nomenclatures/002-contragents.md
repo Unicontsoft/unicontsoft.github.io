@@ -4,10 +4,10 @@
 
 # **Контрагенти**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id2)   
-- [Създаване на нов контрагент](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html#id5)  
+- [Въведение](#въведение)   
+- [Създаване на нов контрагент](#създаване-на-нов-контрагент)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**  
 

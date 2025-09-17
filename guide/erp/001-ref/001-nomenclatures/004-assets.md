@@ -4,10 +4,10 @@
 
 # **Създаване на ДМА**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id2)   
-- [Създаване на нов ДА](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/004-assets.html#id5)
+- [Въведение](#въведение)   
+- [Създаване на нов ДА](#създаване-на-дма)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**  
 
