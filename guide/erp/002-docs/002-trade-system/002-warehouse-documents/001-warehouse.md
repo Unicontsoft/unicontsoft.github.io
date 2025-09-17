@@ -4,9 +4,9 @@
 
 # **Създаване на складов документ**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html#id2)  
-- [Създаване на складов документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html#id4)  
+- [Въведение](/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html#id2)  
+- [Създаване на складов документ](/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html#id3)  
+- [Реквизити](/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html#id4)  
 
 ## **Въведение**
 
