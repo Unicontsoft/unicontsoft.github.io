@@ -4,9 +4,9 @@
 
 # **Трансфер на продукти между складове**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/003-transfer.html#id2)  
-- [Създаване на документи за трансфер между складове](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/003-transfer.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/003-transfer.html#id4)  
+- [Въведение](#въведение)  
+- [Създаване на документи за трансфер между складове](#създаване-на-документи-за-трансфер-между-складове)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -66,4 +66,4 @@
 
 ## **Свързани статии**
 
-[Създаване на складов документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html)
+[Създаване на складов документ](001-warehouse.md)

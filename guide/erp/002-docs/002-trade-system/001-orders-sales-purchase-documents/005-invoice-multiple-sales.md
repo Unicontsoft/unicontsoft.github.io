@@ -4,10 +4,10 @@
 
 # **Издаване на фактура от множество продажби**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales.html#id2)  
-- [Генерация от форма с нов документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales.html#id3)
-- [Генерация от списък Документи за продажба](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/005-invoice-multiple-sales.html#id5)
+- [Въведение](#въведение)  
+- [Генерация от форма с нов документ](#генерация-от-форма-с-нов-документ)
+- [Генерация от списък Документи за продажба](#генерация-от-списък-документи-за-продажба)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**
 

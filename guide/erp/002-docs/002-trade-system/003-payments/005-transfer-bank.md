@@ -4,9 +4,9 @@
 
 # **Прехвърляне на средства между банка и каса**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/005-transfer-bank.html#id2)  
-- [Прехвърляне на средства между банка и каса](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/005-transfer-bank.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/005-transfer-bank.html#id4)
+- [Въведение](#въведение)  
+- [Прехвърляне на средства между банка и каса](#прехвърляне-на-средства-между-банка-и-каса)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**
 

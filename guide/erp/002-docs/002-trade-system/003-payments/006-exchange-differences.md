@@ -4,9 +4,9 @@
 
 # **Валутна преоценка**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/006-exchange-differences.html#id2)  
-- [Създаване на банков документ за валутна преоценка](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/006-exchange-differences.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/006-exchange-differences.html#id4)  
+- [Въведение](#въведение)  
+- [Създаване на банков документ за валутна преоценка](#създаване-на-банков-документ-за-валутна-преоценка)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -65,6 +65,6 @@
 
 ## **Свързани статии**  
 
-- [Банкови документи](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html)  
-- [Сметкоплан](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html)  
-- [Автоматичен осчетоводител](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/002-acc-wizard.html)
+- [Банкови документи](004-bank.md)  
+- [Сметкоплан](../../../001-ref/002-accounting/001-chart-of-acc.md)  
+- [Автоматичен осчетоводител](../../../001-ref/002-accounting/002-acc-wizard.md)

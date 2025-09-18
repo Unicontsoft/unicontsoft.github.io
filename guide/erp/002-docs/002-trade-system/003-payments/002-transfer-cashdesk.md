@@ -4,9 +4,9 @@
 
 # **Прехвърляне на средства между каси**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/002-transfer-cashdesk.html#id2)  
-- [Създаване на документ за трансфер на средства](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/002-transfer-cashdesk.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/002-transfer-cashdesk.html#id4)  
+- [Въведение](#въведение)  
+- [Създаване на документ за трансфер на средства](#създаване-на-документ-за-трансфер-на-средства)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

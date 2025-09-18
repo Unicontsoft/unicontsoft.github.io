@@ -4,10 +4,10 @@
 
 # **Създаване на касов документ**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/001-cashdesk.html#id2)  
-- [Създаване на нов касов документи](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/001-cashdesk.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/001-cashdesk.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/001-cashdesk.html#id5)  
+- [Въведение](#въведение)  
+- [Създаване на нов касов документи](#създаване-на-нов-касов-документ)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

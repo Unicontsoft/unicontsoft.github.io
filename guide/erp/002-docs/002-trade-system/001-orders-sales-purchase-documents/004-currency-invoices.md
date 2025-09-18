@@ -4,11 +4,11 @@
 
 # **Създаване и печат на документи в чуждестранна валута**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id2)  
-- [Създаване на валутна продажба](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id3)  
-- [Настройки при печат на чуждоезикова фактура](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id4)  
-- [Използване на шаблон за печат на валутна фактура](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id5)
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/004-currency-invoices.html#id6)  
+- [Въведение](#въведение)  
+- [Създаване на валутна продажба](#създаване-на-валутна-продажба)  
+- [Настройки при печат на чуждоезикова фактура](#настройки-при-печат-на-чуждоезикова-фактура)  
+- [Използване на шаблон за печат на валутна фактура](#използване-на-шаблон-за-печат-на-валутна-фактура)
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

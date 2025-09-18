@@ -4,9 +4,9 @@
 
 # **Протоколи за инвентаризация**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/004-inventory.html#id2)  
-- [Създаване на протоколи за инвентаризация](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/004-inventory.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/004-inventory.html#id4)  
+- [Въведение](#въведение)  
+- [Създаване на протоколи за инвентаризация](#създаване-на-протоколи-за-инвентаризация)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

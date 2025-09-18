@@ -61,6 +61,6 @@
 ___  
 ## Свързани статии
 
-- [Работа със списъци](https://docs.unicontsoft.com/start/003-lists-configuration.html)
-- [Характеристики на контейнера](https://docs.unicontsoft.com/start/002-container.html)
-- [Работа с колони на списъци](https://docs.unicontsoft.com/start/004-column-operations.html)
+- [Работа със списъци](../../../../start/003-lists-configuration.md)
+- [Характеристики на контейнера](../../../../start/002-container.md)
+- [Работа с колони на списъци](../../../../start/004-column-operations.md)

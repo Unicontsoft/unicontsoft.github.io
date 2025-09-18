@@ -4,10 +4,10 @@
 
 # **Работа с аванси**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/008-advances.html#id2)  
-- [Регистриране на аванс](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/008-advances.html#id3)  
-- [Усвояване на аванс](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/008-advances.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/008-advances.html#id5)
+- [Въведение](#въведение)  
+- [Регистриране на аванс](#регистриране-на-аванс)  
+- [Усвояване на аванс](#усвояване-на-аванс)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**
 

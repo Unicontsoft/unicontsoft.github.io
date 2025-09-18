@@ -4,9 +4,9 @@
 
 # **Кредитен документ/Кредитно известие за продажба**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/007-credit-note.html#id2)  
-- [Генериране на кредитен документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/007-credit-note.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/007-credit-note.html#id4)
+- [Въведение](#въведение)  
+- [Генериране на кредитен документ](#генериране-на-кредитен-документ)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**
 
@@ -85,4 +85,4 @@
 
 - [Как да създадем Кредитен документ/Кредитно известие за количество](https://www.unicontsoft.com/cms/node/48)  
 - [Как да създадем Кредитен документ/Кредитно известие за цена](https://www.unicontsoft.com/cms/node/28)  
-- [Коригиращи документи при продажба](https://docs.unicontsoft.com/guide/erp/005-how-to/002-correction-doc.html)
+- [Коригиращи документи при продажба](../../../005-how-to/002-correction-doc.md)

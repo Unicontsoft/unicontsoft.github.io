@@ -4,14 +4,15 @@
 
 # **Разпределяне на разходи за придобиване**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/009-purchases-transport-expenses.html#id2)  
-- [Разпределяне на разходи](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/009-purchases-transport-expenses.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/009-purchases-transport-expenses.html#id4)  
+- [Въведение](#въведение)  
+- [Разпределяне на разходи](#разпределяне-на-разходи)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
 Системата разполага с инструмент за разпределяне на разходите по придобиване, като транспорт, опаковка и други. Това осигурява точна информация за реалната себестойност на закупените продукти и материали.  
 Препоръчително е за различните разходи да се [създадат отделни продукти](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/003-items.html) от тип, настроен като услуга.  
+
 ## **Разпределяне на разходи**
 
 Процесът по разпределяне на разходи по покупка е следният:  
@@ -72,4 +73,4 @@
 ## **Свързани статии**
 
 - [Как да разпределим разходи по покупка](https://www.unicontsoft.com/cms/node/148)  
-- [Разпределение на разходи за придобиване](https://docs.unicontsoft.com/guide/erp/005-how-to/004-allocate-acquisition-costs.html)
+- [Разпределение на разходи за придобиване](../../../005-how-to/004-allocate-acquisition-costs.md)

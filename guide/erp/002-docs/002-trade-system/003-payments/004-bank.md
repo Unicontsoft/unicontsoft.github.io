@@ -4,10 +4,10 @@
 
 # **Банкови документи**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id2)  
-- [Създаване на банков документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/004-bank.html#id5)  
+- [Въведение](#въведение)  
+- [Създаване на банков документ](#създаване-на-банков-документ)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -130,5 +130,5 @@
 - [Как да въведем Начално салдо на банкова сметка](https://www.unicontsoft.com/cms/node/178)  
 - [Как да въведем Банково извлечение](https://www.unicontsoft.com/cms/node/38)  
 - [Как да въведем Групово плащане](https://www.unicontsoft.com/cms/node/139)  
-- [Как да импортираме банкови извлечения](https://docs.unicontsoft.com/guide/erp/005-how-to/001-bank-statement-import.html)  
+- [Как да импортираме банкови извлечения](../../../005-how-to/001-bank-statement-import.md)  
 - [Как да импортираме документи по опис](https://www.unicontsoft.com/cms/node/255)  

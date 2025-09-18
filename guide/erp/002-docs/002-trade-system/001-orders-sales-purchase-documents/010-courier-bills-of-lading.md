@@ -148,5 +148,5 @@
 
 ## **Свързани статии**
 
-[Създаване на нов Контрагент](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html)  
+[Създаване на нов Контрагент](../../../001-ref/001-nomenclatures/002-contragents.md)  
 [Настройки web услуги](https://www.unicontsoft.com/cms/node/231)  

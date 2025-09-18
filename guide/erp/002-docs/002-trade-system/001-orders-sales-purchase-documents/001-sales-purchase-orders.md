@@ -4,10 +4,10 @@
 
 # **Документи за заявка**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/001-sales-purchase-orders.html#id2)  
-- [Създаване на документ за заявка](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/001-sales-purchase-orders.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/001-sales-purchase-orders.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/001-sales-purchase-orders.html#id5)  
+- [Въведение](#въведение)  
+- [Създаване на документ за заявка](#създаване-на-документ-за-заявка)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

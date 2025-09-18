@@ -4,9 +4,9 @@
 
 # **Прихващания**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/003-offsets.html#id2)  
-- [Създаване на нов протокол за прихващане](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/003-offsets.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/003-offsets.html#id4)  
+- [Въведение](#въведение)  
+- [Създаване на нов протокол за прихващане](#създаване-на-нов-протокол-за-прихващане)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -59,5 +59,5 @@
     
 ## **Свързани статии**
 
-- [Създаване на касов документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/003-payments/001-cashdesk.html)  
+- [Създаване на касов документ](001-cashdesk.md)  
 - [Как да създадем Протокол за прихващане](https://www.unicontsoft.com/cms/node/35)  

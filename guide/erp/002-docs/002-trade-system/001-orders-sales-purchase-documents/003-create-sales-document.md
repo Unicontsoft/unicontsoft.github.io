@@ -4,10 +4,10 @@
 
 # **Създаване на документ за продажба**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html#id2)  
-- [Създаване на продажба](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html#id5)  
+- [Въведение](#въведение)  
+- [Създаване на продажба](#създаване-на-продажба3)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

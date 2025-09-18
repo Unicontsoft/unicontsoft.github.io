@@ -4,9 +4,9 @@
 
 # **Начално салдо на склад**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/002-beg-saldo.html#id2)  
-- [Въвеждане на начално салдо](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/002-beg-saldo.html#id3)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/002-beg-saldo.html#id4)  
+- [Въведение](#въведение)  
+- [Въвеждане на начално салдо](#въвеждане-на-начално-салдо)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -50,4 +50,4 @@
 
 ## **Свързани статии**
 
-[Създаване на складов документ](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/002-warehouse-documents/001-warehouse.html)
+[Създаване на складов документ](001-warehouse.md)

@@ -4,11 +4,10 @@
 
 # **Създаване на документ за покупка**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.html#id2)  
-- [Създаване на покупка](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.html#id4)  
-- [Свързани документи](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.html#id5)  
-
+- [Въведение](#въведение)  
+- [Създаване на покупка](#създаване-на-покупка)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)
 ## **Въведение**
 
 Търговската операция по покупка на стоки и услуги от страна на контрагент **Потребител на продукта** се регистрира в системата чрез вътрешнофирмен документ **Покупка**. В него се описват всички продукти и договорените с доставчика условия на сделката. 
