@@ -4,10 +4,10 @@
 
 # **Сметкоплан**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html#id2)  
-- [Добавяне на нова счетоводна сметка](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html#id5)
+- [Въведение](#въведение)  
+- [Добавяне на нова счетоводна сметка](#добавяне-на-нова-счетоводна-сметка)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 

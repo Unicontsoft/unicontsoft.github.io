@@ -4,10 +4,10 @@
 
 # **Работни периоди**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id2)  
-- [Нов работен период](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/003-working-periods.html#id5)  
+- [Въведение](#въведение)  
+- [Нов работен период](#нов-работен-период)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -57,4 +57,4 @@
 
 ## **Свързани статии**
 
-- [Работа с Работни периоди ](https://docs.unicontsoft.com/guide/erp/005-how-to/006-working-periods.html)  
+- [Работа с Работни периоди ](../../005-how-to/006-working-periods.md)  

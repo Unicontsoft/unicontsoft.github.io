@@ -4,10 +4,10 @@
 
 # **Номератори**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/004-counters.html#id2)  
-- [Добавяне на номератор](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/004-counters.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/004-counters.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/004-counters.html#id5)  
+- [Въведение](#въведение)  
+- [Добавяне на номератор](#добавяне-на-номератор)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**  
 

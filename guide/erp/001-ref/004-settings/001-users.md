@@ -4,10 +4,10 @@
 
 # **Потребители и групи**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/001-users.html#id2)  
-- [Потребители](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/001-users.html#id3)  
-- [Групи](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/001-users.html#id4)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/001-ref/004-settings/001-users.html#id5)  
+- [Въведение](#въведение)  
+- [Потребители](#потребители)  
+- [Групи](#групи)  
+- [Реквизити](#реквизити)  
 
 ## **Въведение**
 
