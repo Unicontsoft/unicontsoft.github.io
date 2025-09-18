@@ -65,5 +65,6 @@
 ## **Свързани статии**
 
 - [Как да прехвърлим средства между портфейли](https://www.unicontsoft.com/cms/node/58)  
-- [Как да настроим Сметкоплан](https://www.unicontsoft.com/cms/node/36)  
-- [Как да настроим Автоматичен осчетоводител](https://www.unicontsoft.com/cms/node/257)  
+- [Как да настроим Сметкоплан](../../../001-ref/002-accounting/001-chart-of-acc.md)  
+- [Как да настроим Автоматичен осчетоводител](../../../001-ref/002-accounting/002-acc-wizard.md)
+  

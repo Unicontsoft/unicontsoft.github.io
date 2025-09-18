@@ -92,7 +92,7 @@
  
 ## **Свързани статии**
 
-- [Как да въведем Банково извлечение](https://www.unicontsoft.com/cms/node/38)  
-- [Как да въведем Касов ордер](https://www.unicontsoft.com/cms/node/57)  
-- [Как да настроим Сметкоплан](https://www.unicontsoft.com/cms/node/36)  
-- [Как да настроим Автоматичен осчетоводител](https://www.unicontsoft.com/cms/node/257)
+- [Как да въведем Банково извлечение](004-bank.md)  
+- [Как да въведем Касов ордер](001-cashdesk.md)  
+- [Как да настроим Сметкоплан](../../../001-ref/002-accounting/001-chart-of-acc.md)  
+- [Как да настроим Автоматичен осчетоводител](../../../001-ref/002-accounting/002-acc-wizard.md)  
