@@ -4,10 +4,10 @@
 
 # **Авансови разчетно-платежни ведомости**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/001-adv-payroll-documents.html#id2)  
-- [Генериране на АРПВ](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/001-adv-payroll-documents.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/001-adv-payroll-documents.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/001-adv-payroll-documents.html#id5)
+- [Въведение](#въведение)  
+- [Генериране на АРПВ](#генериране-на-арпв)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**
 
@@ -96,5 +96,5 @@
 
 ## **Свързани статии**
 
-[Референтни номенклатури за ТРЗ](https://docs.unicontsoft.com/guide/erp/001-ref/003-payroll/001-payroll-settings.html)  
-[Номенклатура Служители](https://docs.unicontsoft.com/guide/erp/001-ref/003-payroll/002-employees.html)  
+[Референтни номенклатури за ТРЗ](../../001-ref/003-payroll/001-payroll-settings.md)  
+[Номенклатура Служители](../../001-ref/003-payroll/002-employees.md)  

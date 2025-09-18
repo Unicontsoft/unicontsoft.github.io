@@ -4,10 +4,10 @@
 
 # **Създаване на счетоводен документ** 
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id2)  
-- [Създаване на счетоводен документ](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/003-accounting/001-acc-doc.html#id5)
+- [Въведение](#въведение)  
+- [Създаване на счетоводен документ](#създаване-на-счетоводен-документ)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)
 
 ## **Въведение**
 
@@ -166,5 +166,5 @@
 
 ## **Свързани статии**  
 
-[Референтни номенклатури](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/001-ref-nomenclatures.html)  
-[Сметкоплан](https://docs.unicontsoft.com/guide/erp/001-ref/002-accounting/001-chart-of-acc.html)
+[Референтни номенклатури](../../001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
+[Сметкоплан](../../001-ref/002-accounting/001-chart-of-acc.md)

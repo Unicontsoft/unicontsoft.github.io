@@ -4,10 +4,10 @@
 
 # **Разчетно–платежни ведомости**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/002-payroll-documents.html#id2)  
-- [Съставяне на РПВ](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/002-payroll-documents.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/002-payroll-documents.html#id4)  
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/002-payroll-documents.html#id5)  
+- [Въведение](#въведение)  
+- [Съставяне на РПВ](#съставяне-на-рпв)  
+- [Реквизити](#реквизити)  
+- [Свързани статии](#свързани-статии)  
 
 ## **Въведение**
 
@@ -160,8 +160,8 @@
 
 ## **Свързани статии**
 
-[Референтни номенклатури за ТРЗ](https://docs.unicontsoft.com/guide/erp/001-ref/003-payroll/001-payroll-settings.html)  
-[Номенклатура Служители](https://docs.unicontsoft.com/guide/erp/001-ref/003-payroll/002-employees.html)  
-[Авансови разчетно-платежни ведомости](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/001-adv-payroll-documents.html)  
-[Болнични документи](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/003-medical-documents.html)  
-[Документи за отпуск](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/004-leave-documents.html)  
+[Референтни номенклатури за ТРЗ](../../001-ref/003-payroll/001-payroll-settings.md)  
+[Номенклатура Служители](../../001-ref/003-payroll/002-employees.md)  
+[Авансови разчетно-платежни ведомости](../../002-docs/004-payroll-documents/001-adv-payroll-documents.md)  
+[Болнични документи](../../002-docs/004-payroll-documents/003-medical-documents.md)  
+[Документи за отпуск](../../002-docs/004-payroll-documents/004-leave-documents.md)  

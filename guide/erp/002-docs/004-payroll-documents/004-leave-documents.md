@@ -4,9 +4,9 @@
 
 # **Документи за отпуск**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/004-leave-documents.html#id2)  
-- [Създаване на нов документ за отпуск](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/004-leave-documents.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/004-payroll-documents/004-leave-documents.html#id4)  
+- [Въведение](#въведение)  
+- [Създаване на нов документ за отпуск](#създаване-на-нов-документ-за-отпуск)  
+- [Реквизити](#реквизити)  
 
 ## **Въведение**
 
