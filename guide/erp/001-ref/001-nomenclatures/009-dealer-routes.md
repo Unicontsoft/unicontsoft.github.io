@@ -62,6 +62,6 @@
 
 ## **Свързани статии**  
 
-[Референтни номенклатури](001-ref-nomenclatures.html)  
-[Контрагенти](002-contragents.html)  
-[Създаване на документ за продажба](../../002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html)  
+[Референтни номенклатури](001-ref-nomenclatures.md)  
+[Контрагенти](002-contragents.md)  
+[Създаване на документ за продажба](../../002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.md)  
