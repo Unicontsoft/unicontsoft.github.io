@@ -4,11 +4,11 @@
  
 # **Коригиращи документи при продажба**  
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/002-correction-doc.html#id2)  
-- [Кредитен документ към една продажба](https://docs.unicontsoft.com/guide/erp/005-how-to/002-correction-doc.html#id3)  
-- [Кредитен документ към няколко продажби](https://docs.unicontsoft.com/guide/erp/005-how-to/002-correction-doc.html#id4)  
-- [Кредитен документ без връзка с продажба](https://docs.unicontsoft.com/guide/erp/005-how-to/002-correction-doc.html#id5)  
-- [Дебитни документи](https://docs.unicontsoft.com/guide/erp/005-how-to/002-correction-doc.html#id6)  
+- [Въведение](#въведение)  
+- [Кредитен документ към една продажба](#кредитен-документ-към-една-продажба)  
+- [Кредитен документ към няколко продажби](#кредитен-документ-към-няколко-продажби)  
+- [Кредитен документ без връзка с продажба](#кредитен-документ-без-връзка-с-продажба)  
+- [Дебитни документи](#дебитни-документи)  
 
 ## **Въведение**
 

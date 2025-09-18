@@ -4,10 +4,10 @@
  
 # **Отчитане на разходи за заплати по центрове на себестойност** 
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/005-how-to/013-cost-center-payroll-expenses.html#id2)
-- [Настройки](https://docs.unicontsoft.com/guide/erp/005-how-to/013-cost-center-payroll-expenses.html#id3)  
-- [Въвеждане на документи в Търговска система](https://docs.unicontsoft.com/guide/erp/005-how-to/013-cost-center-payroll-expenses.html#id4)  
-- [Генериране на счетоводни документи](https://docs.unicontsoft.com/guide/erp/005-how-to/013-cost-center-payroll-expenses.html#id5)  
+- [Въведение](#въведение)
+- [Настройки](#настройки)  
+- [Въвеждане на документи в Търговска система](#въвеждане-на-документи-в-търговска-система)  
+- [Счетоводни документи](#счетоводни-документи)  
 
 ## **Въведение**
 
