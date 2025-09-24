@@ -42,9 +42,9 @@ guide/erp/005-how-to/000-index.md
 :hidden:
 :caption: Ръководство за Dreem POS
 
-guide/erp/001-pos-ref/000-index.md
-guide/erp/002-pos-docs/000-index.md
-guide/erp/003-pos-rep/000-index.md
+guide/pos/001-pos-ref/000-index.md
+guide/pos/002-pos-docs/000-index.md
+guide/pos/003-pos-rep/000-index.md
 ```
 
 ## Ръководство за Dreem Mobile
