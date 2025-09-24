@@ -34,13 +34,17 @@ guide/erp/005-how-to/000-index.md
 
 ## Ръководство за Dreem POS
 
- - [Dreem POS](guide/pos/000-index.md)
+ - [Настройки](guide/pos/001-pos-ref/000-index.md)
+ - [Документи и процеси](guide/pos/002-pos-docs/000-index.md)
+ - [Справки](guide/pos/003-pos-rep/000-index.md)
 
 ```{toctree}
 :hidden:
 :caption: Ръководство за Dreem POS
 
-guide/pos/000-index.md
+guide/erp/001-pos-ref/000-index.md
+guide/erp/002-pos-docs/000-index.md
+guide/erp/003-pos-rep/000-index.md
 ```
 
 ## Ръководство за Dreem Mobile
