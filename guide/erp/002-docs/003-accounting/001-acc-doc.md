@@ -168,4 +168,4 @@
 
 [Референтни номенклатури](../../001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
 [Счетоводни номенклатури](../../001-ref/002-accounting/001-acc-ref-nom.md)
-[Сметкоплан](../../001-ref/002-accounting/001-chart-of-acc.md)
+[Сметкоплан](../../001-ref/002-accounting/002-chart-of-acc.md)
