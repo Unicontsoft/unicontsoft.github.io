@@ -260,7 +260,7 @@
 
 ## **Свързани статии**
 
-- [Как да въведем Документ/Фактура за Покупка](https://www.unicontsoft.com/cms/node/23)  
-- [Как да отпечатаме Документ за покупка](https://www.unicontsoft.com/cms/node/25)  
-- [Как да въведем Покупка със серийни номера на партиди](https://www.unicontsoft.com/cms/node/234)  
-- [Как да генерираме Документ за покупка от Продажби](https://www.unicontsoft.com/cms/node/184)  
+[Как да въведем Документ/Фактура за Покупка](https://www.unicontsoft.com/cms/node/23)  
+[Как да отпечатаме Документ за покупка](https://www.unicontsoft.com/cms/node/25)  
+[Как да въведем Покупка със серийни номера на партиди](https://www.unicontsoft.com/cms/node/234)  
+[Как да генерираме Документ за покупка от Продажби](https://www.unicontsoft.com/cms/node/184)  

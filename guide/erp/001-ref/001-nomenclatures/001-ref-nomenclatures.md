@@ -232,11 +232,11 @@
 
 ## **Свързани статии**
 
-- [Как да въведем Валути?](https://www.unicontsoft.com/cms/node/16)  
-- [Как да въведем Мерки?](https://www.unicontsoft.com/cms/node/19)  
-- [Как да създадем Типове контрагенти?](https://www.unicontsoft.com/cms/node/6)  
-- [Как да създадем Типове Продукти?](https://www.unicontsoft.com/cms/node/9)  
-- [Как да въведем Длъжности?](https://www.unicontsoft.com/cms/node/17)  
-- [Как да създадем Каси?](https://www.unicontsoft.com/cms/node/18)  
-- [Как да въведем Основания за плащане?](https://www.unicontsoft.com/cms/node/20)  
-- [още...](https://www.unicontsoft.com/cms/node/22)
+[Как да въведем Валути?](https://www.unicontsoft.com/cms/node/16)  
+[Как да въведем Мерки?](https://www.unicontsoft.com/cms/node/19)  
+[Как да създадем Типове контрагенти?](https://www.unicontsoft.com/cms/node/6)  
+[Как да създадем Типове Продукти?](https://www.unicontsoft.com/cms/node/9)  
+[Как да въведем Длъжности?](https://www.unicontsoft.com/cms/node/17)  
+[Как да създадем Каси?](https://www.unicontsoft.com/cms/node/18)  
+[Как да въведем Основания за плащане?](https://www.unicontsoft.com/cms/node/20)  
+[още...](https://www.unicontsoft.com/cms/node/22)

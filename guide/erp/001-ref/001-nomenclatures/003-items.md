@@ -242,13 +242,13 @@
 
 ## **Свързани статии**
 
-- [Как да създадем Продукт?](https://www.unicontsoft.com/cms/node/13)  
-- [Как да настроим Тип на продукт?](https://www.unicontsoft.com/cms/node/104)  
-- [Как да настроим Склад по подразбиране?](https://www.unicontsoft.com/cms/node/103)  
-- [Как да създадем продукт тип Услуга?](https://www.unicontsoft.com/cms/node/99)  
-- [Как да въведем различни Мерки и отношения между тях?](https://www.unicontsoft.com/cms/node/101)  
-- [Как да въведем Минимални и максимални количества за продукт по складове?](https://www.unicontsoft.com/cms/node/218)  
-- [Как да въведем Баркодове?](https://www.unicontsoft.com/cms/node/102)  
-- [Как да въведем Гаранционен срок?](https://www.unicontsoft.com/cms/node/113)  
-- [Как да въведем настройка за Трансформация на продукт при фактуриране?](https://www.unicontsoft.com/cms/node/105)  
-- [Как да въведем настройка за Амбалаж?](https://www.unicontsoft.com/cms/node/187)  
+[Как да създадем Продукт?](https://www.unicontsoft.com/cms/node/13)  
+[Как да настроим Тип на продукт?](https://www.unicontsoft.com/cms/node/104)  
+[Как да настроим Склад по подразбиране?](https://www.unicontsoft.com/cms/node/103)  
+[Как да създадем продукт тип Услуга?](https://www.unicontsoft.com/cms/node/99)  
+[Как да въведем различни Мерки и отношения между тях?](https://www.unicontsoft.com/cms/node/101)  
+[Как да въведем Минимални и максимални количества за продукт по складове?](https://www.unicontsoft.com/cms/node/218)  
+[Как да въведем Баркодове?](https://www.unicontsoft.com/cms/node/102)  
+[Как да въведем Гаранционен срок?](https://www.unicontsoft.com/cms/node/113)  
+[Как да въведем настройка за Трансформация на продукт при фактуриране?](https://www.unicontsoft.com/cms/node/105)  
+[Как да въведем настройка за Амбалаж?](https://www.unicontsoft.com/cms/node/187)  

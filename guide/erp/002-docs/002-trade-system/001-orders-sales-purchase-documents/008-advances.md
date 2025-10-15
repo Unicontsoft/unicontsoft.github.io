@@ -115,5 +115,5 @@
  
 ## **Свързани статии**
 
-- [Как да работим с aванси от клиенти](https://www.unicontsoft.com/cms/node/40)  
-- [Как да работим с аванси към доставчици](https://www.unicontsoft.com/cms/node/86)  
+[Как да работим с aванси от клиенти](https://www.unicontsoft.com/cms/node/40)  
+[Как да работим с аванси към доставчици](https://www.unicontsoft.com/cms/node/86)  

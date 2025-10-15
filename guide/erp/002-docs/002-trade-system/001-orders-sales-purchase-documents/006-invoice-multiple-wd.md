@@ -45,5 +45,5 @@
  
 ## **Свързани статии**
 
-- [Как да издължим частично стоки от склад](https://www.unicontsoft.com/cms/node/34)  
-- [Как да въведем частично стоки в склад от покупка](https://www.unicontsoft.com/cms/node/85)
+[Как да издължим частично стоки от склад](https://www.unicontsoft.com/cms/node/34)  
+[Как да въведем частично стоки в склад от покупка](https://www.unicontsoft.com/cms/node/85)

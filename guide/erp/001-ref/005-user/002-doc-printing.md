@@ -41,7 +41,7 @@
 ___
 ## Свързани статии
 
-- [Как да извършим настройки за печат на документи?](https://www.unicontsoft.com/cms/node/157)  
-- [Как да отпечатаме Документ за продажба?](https://www.unicontsoft.com/cms/node/27)  
-- [Как да отпечатаме външнотърговска фактура?](https://www.unicontsoft.com/cms/node/135)  
-- [Как да отпечатаме Документ за покупка?](https://www.unicontsoft.com/cms/node/25)  
+[Как да извършим настройки за печат на документи?](https://www.unicontsoft.com/cms/node/157)  
+[Как да отпечатаме Документ за продажба?](https://www.unicontsoft.com/cms/node/27)  
+[Как да отпечатаме външнотърговска фактура?](https://www.unicontsoft.com/cms/node/135)  
+[Как да отпечатаме Документ за покупка?](https://www.unicontsoft.com/cms/node/25)  

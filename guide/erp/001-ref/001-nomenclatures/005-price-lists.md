@@ -170,4 +170,4 @@
 
 ## **Свързани статии**
  
-- [Ценови листи и схеми с търговски отстъпки](../../../../start/006-price-lists-and-discount-schemes.md)
+[Ценови листи и схеми с търговски отстъпки](../../../../start/006-price-lists-and-discount-schemes.md)

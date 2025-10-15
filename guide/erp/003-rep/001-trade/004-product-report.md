@@ -38,4 +38,4 @@
 ___  
 ## Свързани статии
 
-- [Картон на продукт/материал](https://www.unicontsoft.com/cms/node/159)
+[Картон на продукт/материал](https://www.unicontsoft.com/cms/node/159)

@@ -228,13 +228,13 @@
 
 ## **Свързани статии**
 
-- [Как да създадем Контрагент?](https://www.unicontsoft.com/cms/node/12)  
-- [Как да свържем Ценова листа и Схема с ТО% с контрагент?](https://www.unicontsoft.com/cms/node/67)  
-- [Как да въведем Падежи на плащания за контрагент?](https://www.unicontsoft.com/cms/node/68)  
-- [Как да въведем Поделения на контрагент?](https://www.unicontsoft.com/cms/node/69)  
-- [Как да въведем Кредитен лимит на контрагент?](https://www.unicontsoft.com/cms/node/70)  
-- [Как да настроим начин на плащане на контрагент?](https://www.unicontsoft.com/cms/node/217)  
-- [Как да въведем дилър на контрагент?](https://www.unicontsoft.com/cms/node/71)  
-- [Как да създадем Склад?](https://www.unicontsoft.com/cms/node/96)  
-- [Как да въведем минимални и максимални количества за склад?](https://www.unicontsoft.com/cms/node/98)  
-- [Как да въведем банкови сметки на контрагент?](https://www.unicontsoft.com/cms/node/143)  
+[Как да създадем Контрагент?](https://www.unicontsoft.com/cms/node/12)  
+[Как да свържем Ценова листа и Схема с ТО% с контрагент?](https://www.unicontsoft.com/cms/node/67)  
+[Как да въведем Падежи на плащания за контрагент?](https://www.unicontsoft.com/cms/node/68)  
+[Как да въведем Поделения на контрагент?](https://www.unicontsoft.com/cms/node/69)  
+[Как да въведем Кредитен лимит на контрагент?](https://www.unicontsoft.com/cms/node/70)  
+[Как да настроим начин на плащане на контрагент?](https://www.unicontsoft.com/cms/node/217)  
+[Как да въведем дилър на контрагент?](https://www.unicontsoft.com/cms/node/71)  
+[Как да създадем Склад?](https://www.unicontsoft.com/cms/node/96)  
+[Как да въведем минимални и максимални количества за склад?](https://www.unicontsoft.com/cms/node/98)  
+[Как да въведем банкови сметки на контрагент?](https://www.unicontsoft.com/cms/node/143)  

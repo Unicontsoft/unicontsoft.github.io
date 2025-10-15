@@ -75,5 +75,5 @@
 
 ## **Свързани статии**
 
-- [Как да създадем схема с ТО%?](https://www.unicontsoft.com/cms/node/15)  
-- [Как да свържем Схема с ТО% с контрагент?](https://www.unicontsoft.com/cms/node/67)
+[Как да създадем схема с ТО%?](https://www.unicontsoft.com/cms/node/15)  
+[Как да свържем Схема с ТО% с контрагент?](https://www.unicontsoft.com/cms/node/67)

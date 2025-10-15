@@ -24,4 +24,4 @@
 ___  
 ## Свързани статии
 
-- [Амортизация на ДА - справки и генерация на счетоводни документи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id3)
+[Амортизация на ДА - справки и генерация на счетоводни документи](https://docs.unicontsoft.com/blog/20240423-fixed-assets.html#id3)

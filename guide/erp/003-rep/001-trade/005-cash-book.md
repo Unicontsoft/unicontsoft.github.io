@@ -24,4 +24,4 @@ ___
 
 ## Свързани статии
 
-- [Касова книга](https://www.unicontsoft.com/cms/node/160)
+[Касова книга](https://www.unicontsoft.com/cms/node/160)

@@ -105,4 +105,4 @@
 
 ## **Свързани статии**
 
-- [Как да създадем Програма за лоялност?](https://www.unicontsoft.com/cms/node/138)
+[Как да създадем Програма за лоялност?](https://www.unicontsoft.com/cms/node/138)

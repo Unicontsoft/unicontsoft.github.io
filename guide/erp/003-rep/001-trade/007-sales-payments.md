@@ -67,4 +67,4 @@
 ___  
 ## Свързани статии
 
-- [Продажби/Плащания](https://www.unicontsoft.com/cms/node/202)
+[Продажби/Плащания](https://www.unicontsoft.com/cms/node/202)

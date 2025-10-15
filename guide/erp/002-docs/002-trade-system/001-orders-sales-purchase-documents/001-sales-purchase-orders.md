@@ -275,8 +275,8 @@
 
 ## **Свързани статии**
 
-- [Как да въведем Заявка от клиент](https://www.unicontsoft.com/cms/node/41)  
-- [Как да създадем Заявка към доставчик](https://www.unicontsoft.com/cms/node/56)  
-- [Как да създадем Заявка към доставчик за дозареждане](https://www.unicontsoft.com/cms/node/107)  
-- [Как автоматично да запазим количества](https://www.unicontsoft.com/cms/node/72)  
-- [Как да валидираме количества с баркод скенер в документи за заявка](https://www.unicontsoft.com/cms/node/182)
+[Как да въведем Заявка от клиент](https://www.unicontsoft.com/cms/node/41)  
+[Как да създадем Заявка към доставчик](https://www.unicontsoft.com/cms/node/56)  
+[Как да създадем Заявка към доставчик за дозареждане](https://www.unicontsoft.com/cms/node/107)  
+[Как автоматично да запазим количества](https://www.unicontsoft.com/cms/node/72)  
+[Как да валидираме количества с баркод скенер в документи за заявка](https://www.unicontsoft.com/cms/node/182)

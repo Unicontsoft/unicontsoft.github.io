@@ -126,9 +126,9 @@
 
 ## **Свързани статии**
 
-- [Как да въведем банкови сметки на контрагент](https://www.unicontsoft.com/cms/node/143)  
-- [Как да въведем Начално салдо на банкова сметка](https://www.unicontsoft.com/cms/node/178)  
-- [Как да въведем Банково извлечение](https://www.unicontsoft.com/cms/node/38)  
-- [Как да въведем Групово плащане](https://www.unicontsoft.com/cms/node/139)  
-- [Как да импортираме банкови извлечения](../../../005-how-to/001-bank-statement-import.md)  
-- [Как да импортираме документи по опис](https://www.unicontsoft.com/cms/node/255)  
+[Как да въведем банкови сметки на контрагент](https://www.unicontsoft.com/cms/node/143)  
+[Как да въведем Начално салдо на банкова сметка](https://www.unicontsoft.com/cms/node/178)  
+[Как да въведем Банково извлечение](https://www.unicontsoft.com/cms/node/38)  
+[Как да въведем Групово плащане](https://www.unicontsoft.com/cms/node/139)  
+[Как да импортираме банкови извлечения](../../../005-how-to/001-bank-statement-import.md)  
+[Как да импортираме документи по опис](https://www.unicontsoft.com/cms/node/255)  

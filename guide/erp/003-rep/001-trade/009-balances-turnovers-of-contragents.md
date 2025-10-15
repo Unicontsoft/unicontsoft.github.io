@@ -38,4 +38,5 @@
 
 ___  
 ## Свързани статии
-- [Салда и обороти на контрагенти](https://www.unicontsoft.com/cms/node/197)
+
+[Салда и обороти на контрагенти](https://www.unicontsoft.com/cms/node/197)

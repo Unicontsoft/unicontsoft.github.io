@@ -380,9 +380,9 @@
 
 ## **Свързани статии**
 
-- [Как да създадем Документ/Фактура за Продажба](https://www.unicontsoft.com/cms/node/26)  
-- [Как да отпечатаме Документ за продажба](https://www.unicontsoft.com/cms/node/27)  
-- [Продажба с наложен платеж](https://www.unicontsoft.com/cms/node/226)  
-- [Как да въведем Продажба със серийни номера на партиди](https://www.unicontsoft.com/cms/node/235)  
-- [Как да генерираме Документ за Продажба от Покупки](https://www.unicontsoft.com/cms/node/183)  
+[Как да създадем Документ/Фактура за Продажба](https://www.unicontsoft.com/cms/node/26)  
+[Как да отпечатаме Документ за продажба](https://www.unicontsoft.com/cms/node/27)  
+[Продажба с наложен платеж](https://www.unicontsoft.com/cms/node/226)  
+[Как да въведем Продажба със серийни номера на партиди](https://www.unicontsoft.com/cms/node/235)  
+[Как да генерираме Документ за Продажба от Покупки](https://www.unicontsoft.com/cms/node/183)  
 

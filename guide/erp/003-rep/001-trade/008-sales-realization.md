@@ -42,4 +42,4 @@
 ___  
 ## Свързани статии
 
-- [Продажби (реализация)](https://www.unicontsoft.com/cms/node/213)
+[Продажби (реализация)](https://www.unicontsoft.com/cms/node/213)

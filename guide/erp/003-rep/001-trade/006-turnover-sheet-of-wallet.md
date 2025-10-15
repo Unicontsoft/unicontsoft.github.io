@@ -24,4 +24,4 @@
 ___  
 ## Свързани статии
 
-- [Оборотна ведомост на портфейли](https://www.unicontsoft.com/cms/node/161)
+[Оборотна ведомост на портфейли](https://www.unicontsoft.com/cms/node/161)

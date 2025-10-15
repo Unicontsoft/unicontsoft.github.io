@@ -37,4 +37,4 @@
 ___  
 ## Свързани статии
 
-- [Оборотна ведомост на склад](https://www.unicontsoft.com/cms/node/158)
+[Оборотна ведомост на склад](https://www.unicontsoft.com/cms/node/158)

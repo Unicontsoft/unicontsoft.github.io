@@ -76,4 +76,4 @@
 
 ## **Свързани статии**
 
-- [Как да настроим Сметкоплан](https://www.unicontsoft.com/cms/node/36)
+[Как да настроим Сметкоплан](https://www.unicontsoft.com/cms/node/36)

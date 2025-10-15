@@ -120,6 +120,6 @@
 
 ## **Свързани статии**
 
-- [Как да въведем Касов ордер](https://www.unicontsoft.com/cms/node/57)  
-- [Как да настроим Сметкоплан](../../../001-ref/002-accounting/002-chart-of-acc.md)  
-- [Как да настроим Автоматичен осчетоводител](../../../001-ref/002-accounting/003-acc-wizard.md)
+[Как да въведем Касов ордер](https://www.unicontsoft.com/cms/node/57)  
+[Как да настроим Сметкоплан](../../../001-ref/002-accounting/002-chart-of-acc.md)  
+[Как да настроим Автоматичен осчетоводител](../../../001-ref/002-accounting/003-acc-wizard.md)
