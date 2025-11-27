@@ -51,7 +51,7 @@
 
 2. Настройки на банкови сметки
 
-3. Плащанията в преходния период 
+3. Плащанията в преходния период - аналитичност с касови наличности в лева и евро
 
 4. Плащанията в евро по стари документи в лева се извършват с превалутиране на сумите по курс 1.95583.  
 Възможно е това да доведе до валутни разлики.   
@@ -77,6 +77,8 @@
 [Рубрика на НАП](https://nra.bg/wps/portal/nra/za-nap/bulgaria_v_eurozonzta/bulgaria_v_eurozonzta?contentIDR=c875a1a2-1eb2-43be-8bcd-e88d06cac9ad&useDefaultText=0&useDefaultDesc=1)  
 
 [Информационен сайт за еврото на Министерство на финансите и Българска народна банка](https://evroto.bg/bg)  
+
+[Въпроси и отговори за присъединяване към Еврозоната (сайт на БНБ)](https://www.bnb.bg/AboutUs/PressOffice/POAccessionToTheEuroArea/POAEFIQuestionsAndAnswers/index.htm)  
 
 [Закон за въвеждане на еврото в Република България](https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=224950&utm_source=chatgpt.com)  
 
