@@ -10,31 +10,18 @@
 Шаблонът работи със следните променливи:
 
  - RECIP\_NAME 
-
  - RECIP\_EMAIL 
-
  - RECIP\_CC\_NAME 
-
  - RECIP\_CC\_EMAIL 
-
  - RECIP\_BCC\_NAME 
-
  - RECIP\_BCC\_EMAIL 
-
  - MAIL\_SUBJECT 
-
  - MAIL\_BODY 
-
  - CGOWNER\_NAME 
-
  - PERSON\_NAME 
-
  - ATTACHMENT\_NAME 
-
  - ATTACHMENT\_SUFFIX (.PDF по подразбиране) 
-
  - ATTACHMENT\_TYPE (1 по подразбиране) 
-
  - TEMP\_FILE 
 
 Съдържание на примерен **EmailTemplate.txt**:
@@ -42,9 +29,7 @@
     MAIL_SUBJECT: Прикрепен {ATTACHMENT_NAME} от {CGOWNER_NAME}
 
     body line 1
-
     body line 2
-
     ...
 
 Всяка от променливите може да се употреби в текста във вид
@@ -56,7 +41,9 @@
 . . . където самата \<стойност\> може да съдържа променливи. Всички останали
 редове на шаблона са основен текст (email body).
 
-Валидни стойности за ATTACHMENT\_TYPE:
+Променливите се намират в началото на файл на отделни редове и завършват с празен ред. След първия празен ред следва основен текст на съобщението (email body), който може да съдържа произволен текст в параграфи разделени с празни редове.
+
+Валидни стойности за променлива ATTACHMENT\_TYPE:
 
  - 1 - PDF (по подразбиране)
  - 2 - XLS
@@ -68,11 +55,8 @@
 например
 
     MAIL_SUBJECT: Електронна фактура {ATTACHMENT_NAME}!
-
     ATTACHMENT_TYPE: 2
-
     ATTACHMENT_SUFFIX: .XLS
 
     body
-
     ...
