@@ -25,4 +25,4 @@
 
 - **Салдо стойност** - възможност за избор по каква цена да бъде представено салдото в справката - *По средна цена* или *По цена от документа*;  
 
-![](907-goods-assets-report2.png){ class=align-center } 
+![](907-goods-assets-report2.png){ class=align-center w=15cm } 
