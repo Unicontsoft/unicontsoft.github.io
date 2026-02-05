@@ -178,7 +178,7 @@
 
 ## **Свързани статии**
 
-[Продукти и материали](../001-ref/001-nomenclatures/003-items.md)  
-[Типове документи](../001-ref/001-nomenclatures/014-doc-types.md)  
-[Автоматичен осчетоводител](../001-ref/002-accounting/003-acc-wizard.md)  
+[Продукти и материали](../../../001-ref/001-nomenclatures/003-items.md)  
+[Типове документи](../../../001-ref/001-nomenclatures/014-doc-types.md)  
+[Автоматичен осчетоводител](../../../001-ref/002-accounting/003-acc-wizard.md)  
 [Производство с полуфабрикати](../../../005-how-to/017-manufacturing.md)  
