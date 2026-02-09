@@ -69,7 +69,7 @@ html_theme_options = {
 # -- Options for rinohtype PDF output -------------------------------------
 # , logo='_static/rinohtype_logo.pdf'
 rinoh_documents = [
-    dict(doc='guide/erp/000-index', target='manual', title='Ръководство на потребителя', subtitle='версия 1.5',
+    dict(doc='guide/erp/000-index', target='manual', title='Ръководство на потребителя', subtitle='версия 2.0',
          author='Униконт Софт ООД', toctree_only=False,
          template='manual.rtt'),
 ]
