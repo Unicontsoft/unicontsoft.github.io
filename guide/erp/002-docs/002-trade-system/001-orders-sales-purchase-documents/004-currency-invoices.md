@@ -95,8 +95,6 @@
 
 ## **Свързани статии**
 
-[Как да въведем ВОД](https://www.unicontsoft.com/cms/node/134)  
-[Как да създадем Продажба във валута](https://www.unicontsoft.com/cms/node/185)  
-[Как да отпечатаме външнотърговска фактура](https://www.unicontsoft.com/cms/node/135)  
-[Как да въведем ВОП и Протокол за самооблагане](https://www.unicontsoft.com/cms/node/76)  
-[Как да въведем Покупка във валута](https://www.unicontsoft.com/cms/node/77)  
+[Документи за покупка](002-create-purchase-documents.md)  
+[Документи за продажба](003-create-sales-document.md)  
+[Митническа декларация за внос](../../../005-how-to/019-import-custom-declaration.md)  
