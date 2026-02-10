@@ -4,10 +4,10 @@
 
 # **Куриерски товарителници**
 
-- [Въведение](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/010-courier-bills-of-lading.html#id2)
-- [Създаване на куриерски товарителници](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/010-courier-bills-of-lading.html#id3)  
-- [Реквизити](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/010-courier-bills-of-lading.html#id4)   
-- [Свързани статии](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/010-courier-bills-of-lading.html#id5) 
+- [Въведение](#въведение)
+- [Създаване на куриерски товарителници](#създаване-на-куриерски-товарителници)  
+- [Реквизити](#реквизити)   
+- [Свързани статии](#свързани-статии) 
 
 ## **Въведение**
 
@@ -18,7 +18,7 @@
 
 Процесът по създаване на товарителница е следният:
 
-1) От [**Номенклатури » Контрагенти**](https://docs.unicontsoft.com/guide/erp/001-ref/001-nomenclatures/002-contragents.html) еднократно се въвежда нова номенклатура с куриерска фирма.  
+1) От [**Номенклатури » Контрагенти**](../../../001-ref/001-nomenclatures/002-contragents.md) еднократно се въвежда нова номенклатура с куриерска фирма.  
 За тип на контрагента трябва да бъде избран **Куриер**.  
 
 ![](910-courier-bills-of-lading1.png){ class=align-center w=15cm }
@@ -148,5 +148,5 @@
 
 ## **Свързани статии**
 
-[Създаване на нов Контрагент](../../../001-ref/001-nomenclatures/002-contragents.md)  
+[Контрагенти](../../../001-ref/001-nomenclatures/002-contragents.md)  
  
