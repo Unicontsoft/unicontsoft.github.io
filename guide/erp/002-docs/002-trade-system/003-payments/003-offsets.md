@@ -59,5 +59,7 @@
     
 ## **Свързани статии**
 
-[Създаване на касов документ](001-cashdesk.md)  
-[Как да създадем Протокол за прихващане](https://www.unicontsoft.com/cms/node/35)  
+[Референтни номенклатури](../../../001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
+[Касов документ](001-cashdesk.md)  
+[Сметкоплан](../../../001-ref/002-accounting/002-chart-of-acc.md)  
+[Автоматичен осчетоводител](../../../001-ref/002-accounting/003-acc-wizard.md)  
