@@ -45,5 +45,7 @@
  
 ## **Свързани статии**
 
-[Как да издължим частично стоки от склад](https://www.unicontsoft.com/cms/node/34)  
-[Как да въведем частично стоки в склад от покупка](https://www.unicontsoft.com/cms/node/85)
+[Връзки между документи](../../001-documents/002-row-crosses.md)  
+[Състояния на документите](../../../004-tips/004-doc-states.md)  
+[Документи за покупка](002-create-purchase-documents.md)  
+[Документи за продажба](003-create-sales-document.md)  Изписване с няколко склада
