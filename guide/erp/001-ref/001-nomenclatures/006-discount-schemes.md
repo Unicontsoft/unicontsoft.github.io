@@ -74,5 +74,4 @@
 
 ## **Свързани статии**
 
-[Как да създадем схема с ТО%?](https://www.unicontsoft.com/cms/node/15)  
-[Как да свържем Схема с ТО% с контрагент?](https://www.unicontsoft.com/cms/node/67)
+[Ценови листи и схеми с ТО%](../../../../start/006-price-lists-and-discount-schemes.md)  
