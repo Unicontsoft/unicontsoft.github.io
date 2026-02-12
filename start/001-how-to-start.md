@@ -33,9 +33,9 @@
 
 За да стартирате работа с **Dreem ERP** по правилен начин, обърнете нужното внимание на следните:  
 
-- [Типове продукти](https://www.unicontsoft.com/cms/node/9)  
-- [Каси](https://www.unicontsoft.com/cms/node/18)  
-- [Основания за плащане](https://www.unicontsoft.com/cms/node/20)  
+- [Типове продукти](../guide/erp/001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
+- [Каси](../guide/erp/001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
+- [Основания за плащане](../guide/erp/001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
 - [Контрагенти](../guide/erp/001-ref/001-nomenclatures/002-contragents.md) (Възможен е и импорт чрез покупки/продажби.)  
 - [Импорт продукти](005-product-import.md)  
 - [ЦЛ](../guide/erp/001-ref/001-nomenclatures/005-price-lists.md)  

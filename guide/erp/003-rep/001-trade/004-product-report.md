@@ -36,7 +36,3 @@
 
     ![](904-product-report3.png){ class=align-center w=15cm }
 
-___  
-## Свързани статии
-
-[Картон на продукт/материал](https://www.unicontsoft.com/cms/node/159)

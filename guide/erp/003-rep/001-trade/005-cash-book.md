@@ -20,8 +20,3 @@
 
 ![](905-cash-book2.png){ class=align-center w=15cm }
 
-___  
-
-## Свързани статии
-
-[Касова книга](https://www.unicontsoft.com/cms/node/160)
