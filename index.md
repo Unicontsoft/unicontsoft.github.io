@@ -49,13 +49,13 @@ guide/pos/003-pos-rep/000-index.md
 
 ## Ръководство за Dreem Mobile
 
- - [Dreem Mobile](guide/mob/000-index.md)
+ - [Настройки](guide/mob/001-mob-ref/000-index.md)
 
 ```{toctree}
 :hidden:
 :caption: Ръководство за Dreem Mobile
 
-guide/mob/000-index.md
+guide/mob/001-mob-ref/000-index.md
 ```
 
 ## Индекси
