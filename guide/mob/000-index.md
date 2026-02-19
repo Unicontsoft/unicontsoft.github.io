@@ -10,8 +10,7 @@
 > **Dreem Mobile** работи онлайн като част от **Dreem ERP**.  
 
 ```{toctree}
-:maxdepth: 1
-:glob:
+:hidden:
 
-*
+001-mob-ref/000-index.md
 ```
