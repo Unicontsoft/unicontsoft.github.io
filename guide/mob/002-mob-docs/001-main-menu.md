@@ -29,7 +29,7 @@
 - **Изход**  
 Излиза от сесията на текущия потребител на системата.  
 
-   ![](901-main-menu2.png){ class=align-center }
+   ![](901-main-menu2.png){ class=align-center w=10cm }
 
 ## **Функционални бутони**
 
