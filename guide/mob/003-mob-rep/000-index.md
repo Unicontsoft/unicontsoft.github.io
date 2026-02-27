@@ -11,4 +11,5 @@
 :hidden:
 
 001-fiscal-device/000-index.md
+002-trade/000-index.md
 ```
