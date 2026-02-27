@@ -13,4 +13,6 @@
 :hidden:
 
 001-mob-ref/000-index.md
+002-mob-docs/000-index.md
+003-mob-rep/000-index.md
 ```
