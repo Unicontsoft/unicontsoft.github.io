@@ -5,9 +5,10 @@
 # Справки
 
 
+
 ```{toctree}
 :maxdepth: 1
-:glob:
+:hidden:
 
-*
+001-fiscal-device/000-index.md
 ```
