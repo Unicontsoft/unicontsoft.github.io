@@ -51,6 +51,7 @@ guide/pos/003-pos-rep/000-index.md
 
  - [Настройки](guide/mob/001-mob-ref/000-index.md)
  - [Документи и процеси](guide/mob/002-mob-docs/000-index.md)
+ - [Справки](guide/mob/003-mob-rep/000-index.md)
 
 ```{toctree}
 :hidden:
@@ -58,6 +59,7 @@ guide/pos/003-pos-rep/000-index.md
 
 guide/mob/001-mob-ref/000-index.md
 guide/mob/002-mob-docs/000-index.md
+guide/mob/003-mob-rep/000-index.md
 ```
 
 ## Индекси
