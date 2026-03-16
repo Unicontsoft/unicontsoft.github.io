@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Dreem User's Manual"
-copyright = "2025 by Unicontsoft"
+copyright = "2026 by Unicontsoft"
 author = "Unicontsoft"
 
 # -- General configuration ---------------------------------------------------
