@@ -8,8 +8,7 @@
 
 ```{toctree}
 :maxdepth: 1
-:hidden:
+:glob:
 
-001-fiscal-device/000-index.md
-002-trade/000-index.md
+*
 ```
