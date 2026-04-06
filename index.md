@@ -19,7 +19,7 @@ blog/000-index.md
  - [Документи и процеси](guide/erp/002-docs/000-index.md)
  - [Справки](guide/erp/003-rep/000-index.md)
  - [Ключове за ефективност](guide/erp/004-tips/000-index.md)
- - [Често срещани казуси](guide/erp/005-how-to/000-index.md)
+ - [Казуси и решения](guide/erp/005-how-to/000-index.md)
 
 ```{toctree}
 :hidden:
