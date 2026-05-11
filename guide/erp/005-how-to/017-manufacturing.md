@@ -143,7 +143,7 @@
 
 ## **Свързани статии**
 
-[Продукти и материали](../001-ref/001-nomenclatures/003-items.md)  
+[Продукти и материали](../001-ref/001-nomenclatures/004-items.md)  
 [Типове документи](../001-ref/001-nomenclatures/014-doc-types.md)  
 [Автоматичен осчетоводител](../001-ref/002-accounting/003-acc-wizard.md)  
 [Производство](../002-docs/002-trade-system/002-warehouse-documents/005-manufacturing.md)  
