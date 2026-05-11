@@ -40,7 +40,7 @@
 - [Импорт продукти](005-product-import.md)  
 - [ЦЛ](../guide/erp/001-ref/001-nomenclatures/006-price-lists.md)  
 - [ТО%](../guide/erp/001-ref/001-nomenclatures/007-discount-schemes.md)  
-- [Потребителски дименсии](../guide/erp/001-ref/001-nomenclatures/010-custom-dimensions.md)  
+- [Потребителски дименсии](../guide/erp/001-ref/001-nomenclatures/011-custom-dimensions.md)  
 
 За номенклатура **Продукти и материали** може да започнете с ръчно въвеждане на няколко записа. Това ще Ви даде по-добър поглед над полетата, които ще се използват за имена на колони при импорт на продукти.  
 
