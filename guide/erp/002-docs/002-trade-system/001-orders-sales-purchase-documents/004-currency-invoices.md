@@ -14,7 +14,7 @@
 
 При сделки с чуждестранни лица документите, които се обработват в системата, пораждат вземания или задължения във валута.
 
-Валутните сделки се въвеждат в системата като стандартни [покупки](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.html) или [продажби](https://docs.unicontsoft.com/guide/erp/002-docs/002-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.html). Единствените реквизити, които се различават, са данните в полета:  
+Валутните сделки се въвеждат в системата като стандартни [покупки](../001-orders-sales-purchase-documents/002-create-purchase-documents.md) или [продажби](../001-orders-sales-purchase-documents/003-create-sales-document.md). Единствените реквизити, които се различават, са данните в полета:  
 
 - В раздел **Основни**: *Основание за прилагане*, *Валута* и *Курс*;  
 - В раздел **Допълнителни**: *Валута* и *Курс*;  
