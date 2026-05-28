@@ -127,4 +127,6 @@
 
 [Контрагенти](../../../001-ref/001-nomenclatures/002-contragents.md)  
 [Документи за продажба](003-create-sales-document.md)  
+[Документи за покупка](002-create-purchase-documents.md)  
 [Автоматичен осчетоводител](../../../001-ref/002-accounting/003-acc-wizard.md)  
+[Номератоири](../../../001-ref/004-settings/004-counters.md)  
