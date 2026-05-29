@@ -130,4 +130,4 @@
 [Документи за продажба](003-create-sales-document.md)  
 [Документи за покупка](002-create-purchase-documents.md)  
 [Автоматичен осчетоводител](../../../001-ref/002-accounting/003-acc-wizard.md)  
-[Номератоири](../../../001-ref/004-settings/004-counters.md)  
+[Номератори](../../../001-ref/004-settings/004-counters.md)  
