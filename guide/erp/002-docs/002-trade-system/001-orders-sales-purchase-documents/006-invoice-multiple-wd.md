@@ -57,7 +57,7 @@
  
 ## **Свързани статии**
 
-[Връзки между документи](../../001-documents/002-row-crosses.md)  
+[Връзки между документи](../../../../../start/010-row-crosses.md)  
 [Състояния на документите](../../../004-tips/004-doc-states.md)  
 [Документи за покупка](002-create-purchase-documents.md)  
 [Документи за продажба](003-create-sales-document.md)  
