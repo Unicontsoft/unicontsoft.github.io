@@ -143,6 +143,6 @@
 ## **Свързани статии**
 
 [Референтни номенклатури](../../../001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
-[Връзки между документи](../../001-documents/002-row-crosses.md)  
+[Връзки между документи](../../../../../start/010-row-crosses.md)  
 [Сметкоплан](../../../001-ref/002-accounting/002-chart-of-acc.md)  
 [Автоматичен осчетоводител](../../../001-ref/002-accounting/003-acc-wizard.md)
