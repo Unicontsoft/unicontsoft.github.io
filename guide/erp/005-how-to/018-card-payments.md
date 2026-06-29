@@ -132,5 +132,5 @@
 [Референтни номенклатури](../001-ref/001-nomenclatures/001-ref-nomenclatures.md)  
 [Сметкоплан](../001-ref/002-accounting/002-chart-of-acc.md)  
 [Автоматичен осчетоводител](../001-ref/002-accounting/003-acc-wizard.md)  
-[Касови документи](../002-docs/002-trade-system/003-payments/001-cashdesk.md)  
-[Банкови документи](../002-docs/002-trade-system/003-payments/004-bank.md)
+[Касови документи](../002-docs/001-trade-system/003-payments/001-cashdesk.md)  
+[Банкови документи](../002-docs/001-trade-system/003-payments/004-bank.md)
