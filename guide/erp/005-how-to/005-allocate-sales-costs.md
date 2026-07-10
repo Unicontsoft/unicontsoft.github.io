@@ -101,7 +101,7 @@
 
 ![](905-allocate-sales-costs8.png){ class=align-center w=15cm }
 
-- В документа за покупка, съдържащ разпределени разходи по продажба/и;  
+- В документа за покупка, съдържащ разпределени разходи по продажба(и);  
 
 ![](905-allocate-sales-costs9.png){ class=align-center w=15cm }
 
