@@ -62,6 +62,16 @@ guide/mob/002-mob-docs/000-index.md
 guide/mob/003-mob-rep/000-index.md
 ```
 
+
+## Ръководство за Dreem Personal
+
+```{toctree}
+:hidden:
+:caption: Ръководство за Dreem Personal
+
+guide/prs/000-index.md
+```
+
 ## Индекси
 
 ```{eval-rst}
