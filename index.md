@@ -62,8 +62,9 @@ guide/mob/002-mob-docs/000-index.md
 guide/mob/003-mob-rep/000-index.md
 ```
 
-
 ## Ръководство за Dreem Personal
+
+ - [Администриране](guide/prs/000-index.md)
 
 ```{toctree}
 :hidden:
