@@ -77,4 +77,5 @@
 001-trade-system/000-index.md
 002-accounting/000-index.md
 003-payroll-documents/000-index.md
+004-organization/000-index.md
 ```
