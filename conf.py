@@ -16,7 +16,7 @@ author = "Unicontsoft"
 extensions = ['myst_parser']
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'internal/upload']
 
 master_doc = "index"
 language = 'bg'
@@ -92,3 +92,31 @@ myst_enable_extensions = [
 ]
 
 myst_heading_anchors = 3
+
+# -- Hidden pages --------------------------------------------------------------
+# Pages in these folders are published but not linked from the menu and not indexed by search
+
+HIDDEN_DIRS = ('internal/',)
+
+def _hide_docs(app, doctree):
+    docname = app.env.docname
+    if docname.startswith(HIDDEN_DIRS):
+        meta = app.env.metadata.setdefault(docname, {})
+        meta['orphan'] = True
+        meta['nosearch'] = True
+
+# Files in internal/upload are published as-is under /internal/upload/ (not processed by Sphinx)
+
+HIDDEN_FILES_DIR = 'internal/upload'
+
+def _copy_hidden_files(app, exception):
+    import os
+    import shutil
+    if exception is None and app.builder.format == 'html':
+        src = os.path.join(app.srcdir, HIDDEN_FILES_DIR)
+        if os.path.isdir(src):
+            shutil.copytree(src, os.path.join(app.outdir, HIDDEN_FILES_DIR), dirs_exist_ok=True)
+
+def setup(app):
+    app.connect('doctree-read', _hide_docs)
+    app.connect('build-finished', _copy_hidden_files)
