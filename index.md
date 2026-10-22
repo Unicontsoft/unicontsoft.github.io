@@ -1,6 +1,7 @@
 # Документация
 
  - [Първи стъпки](start/000-index.md)
+ - [Какво ново](news/000-index.md)
  - [Актуализации](update/000-index.md)
  - [Блог](blog/000-index.md)
 
@@ -9,6 +10,7 @@
 :caption: Документация
 
 start/000-index.md
+news/000-index.md
 update/000-index.md
 blog/000-index.md
 ```
