@@ -117,6 +117,26 @@ def _copy_hidden_files(app, exception):
         if os.path.isdir(src):
             shutil.copytree(src, os.path.join(app.outdir, HIDDEN_FILES_DIR), dirs_exist_ok=True)
 
+# Landing page internal/index lists files in internal/upload in place of this marker
+
+HIDDEN_FILES_MARKER = '<!-- upload-files -->'
+
+def _list_hidden_files(app, docname, source):
+    import os
+    from html import escape
+    from urllib.parse import quote
+    if docname != 'internal/index':
+        return
+    src = os.path.join(app.srcdir, HIDDEN_FILES_DIR)
+    names = sorted(n for n in os.listdir(src) if not n.startswith('.')) if os.path.isdir(src) else []
+    if names:
+        items = ''.join('<li><a href="upload/%s">%s</a></li>' % (quote(n), escape(n)) for n in names)
+        html = '<ul>%s</ul>' % items
+    else:
+        html = '<p>Няма качени файлове.</p>'
+    source[0] = source[0].replace(HIDDEN_FILES_MARKER, html)
+
 def setup(app):
+    app.connect('source-read', _list_hidden_files)
     app.connect('doctree-read', _hide_docs)
     app.connect('build-finished', _copy_hidden_files)
