@@ -24,3 +24,18 @@
 
 > Процесите зависят изцяло от организацията на документооборота спрямо валидните права в системата.  
 
+```{toctree}
+:maxdepth: 1
+:hidden:
+
+001-sales-purchase-orders.md
+002-warehouse-documents/000-index.md
+003-payments/000-index.md
+004-currency-invoices.md
+005-invoice-multiple-sales.md
+006-invoice-multiple-wd.md
+007-credit-note.md
+008-advances.md
+009-purchases-transport-expenses.md
+010-courier-bills-of-lading.md
+```
