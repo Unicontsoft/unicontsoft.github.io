@@ -29,8 +29,8 @@
 :hidden:
 
 001-sales-purchase-orders.md
-002-warehouse-documents/000-index.md
-003-payments/000-index.md
+002-create-purchase-documents.md
+003-create-sales-document.md
 004-currency-invoices.md
 005-invoice-multiple-sales.md
 006-invoice-multiple-wd.md
