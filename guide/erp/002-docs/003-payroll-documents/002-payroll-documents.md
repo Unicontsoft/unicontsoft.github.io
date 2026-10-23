@@ -175,7 +175,7 @@
 
 [Референтни номенклатури за ТРЗ](../../001-ref/003-payroll/001-payroll-ref-nom.md)  
 [Номенклатура Служители](../../001-ref/003-payroll/002-employees.md)  
-[Авансови разчетно-платежни ведомости](../../002-docs/004-payroll-documents/001-adv-payroll-documents.md)  
-[Болнични документи](../../002-docs/004-payroll-documents/003-medical-documents.md)  
-[Документи за отпуск](../../002-docs/004-payroll-documents/004-leave-documents.md)  
+[Авансови разчетно-платежни ведомости](001-adv-payroll-documents.md)  
+[Болнични документи](003-medical-documents.md)  
+[Документи за отпуск](004-leave-documents.md)  
 [Автоматичен осчетоводител](../../001-ref/002-accounting/003-acc-wizard.md)  
