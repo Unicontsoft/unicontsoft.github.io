@@ -21,4 +21,4 @@
 Потвърдете направените промени с бутон [**Запис**].  
 Системата попълва новите данни в документа, като запазва неговото състояние по време на процеса.  
 
-> Позволените за редакция реквизити могат да се различават за [покупките](../002-docs/001-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.md#реквизити) и [продажбите](../002-docs/001-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.md#форма-корекция-приключен-документ).  
+> Позволените за редакция реквизити могат да се различават за [покупките](../002-docs/001-trade-system/001-orders-sales-purchase-documents/002-create-purchase-documents.md#реквизити-корекция-приключен-документ) и [продажбите](../002-docs/001-trade-system/001-orders-sales-purchase-documents/003-create-sales-document.md#реквизити-корекция-приключен-документ).  
